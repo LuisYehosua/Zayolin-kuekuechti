@@ -1,0 +1,50 @@
+[1.465s] Invoking command in '/home/yehousa/Zayolin-kuekuechti/ros2_ws/src/flie': PYTHONPATH=/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/flie build --build-base /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build install --record /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/install.log --single-version-externally-managed install_data
+[1.805s] running egg_info
+[1.805s] creating ../../build/flie/flie.egg-info
+[1.805s] writing ../../build/flie/flie.egg-info/PKG-INFO
+[1.805s] writing dependency_links to ../../build/flie/flie.egg-info/dependency_links.txt
+[1.805s] writing entry points to ../../build/flie/flie.egg-info/entry_points.txt
+[1.806s] writing requirements to ../../build/flie/flie.egg-info/requires.txt
+[1.806s] writing top-level names to ../../build/flie/flie.egg-info/top_level.txt
+[1.806s] writing manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+[1.807s] reading manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+[1.807s] writing manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+[1.807s] running build
+[1.807s] running build_py
+[1.808s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build
+[1.808s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib
+[1.808s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+[1.808s] copying flie/motion_commander.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+[1.808s] copying flie/__init__.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+[1.808s] copying flie/gate_green.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+[1.808s] copying flie/Test1.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+[1.808s] copying flie/prueba_avance.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+[1.808s] copying flie/pvideo.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+[1.808s] running install
+[1.808s] running install_lib
+[1.808s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+[1.808s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/motion_commander.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+[1.809s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/__init__.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+[1.809s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/gate_green.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+[1.809s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/Test1.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+[1.809s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/prueba_avance.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+[1.809s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/pvideo.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+[1.809s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/motion_commander.py to motion_commander.cpython-310.pyc
+[1.810s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/__init__.py to __init__.cpython-310.pyc
+[1.810s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/gate_green.py to gate_green.cpython-310.pyc
+[1.811s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/Test1.py to Test1.cpython-310.pyc
+[1.811s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/prueba_avance.py to prueba_avance.cpython-310.pyc
+[1.811s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/pvideo.py to pvideo.cpython-310.pyc
+[1.811s] running install_data
+[1.811s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index
+[1.811s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index/resource_index
+[1.811s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index/resource_index/packages
+[1.812s] copying resource/flie -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index/resource_index/packages
+[1.812s] copying package.xml -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/flie
+[1.812s] running install_egg_info
+[1.813s] Copying ../../build/flie/flie.egg-info to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie-0.0.0-py3.10.egg-info
+[1.813s] running install_scripts
+[1.829s] Installing gate_green script to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.829s] Installing prueba_avance script to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.829s] writing list of installed files to '/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/install.log'
+[1.853s] Invoked command in '/home/yehousa/Zayolin-kuekuechti/ros2_ws/src/flie' returned '0': PYTHONPATH=/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/flie build --build-base /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build install --record /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/install.log --single-version-externally-managed install_data

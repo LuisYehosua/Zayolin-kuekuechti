@@ -1,0 +1,22 @@
+[0.647s] Invoking command in '/home/yehousa/Zayolin-kuekuechti/ros2_ws/src/flie': PYTHONPATH=/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/flie build --build-base /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build install --record /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/install.log --single-version-externally-managed install_data
+[0.823s] running egg_info
+[0.823s] writing ../../build/flie/flie.egg-info/PKG-INFO
+[0.823s] writing dependency_links to ../../build/flie/flie.egg-info/dependency_links.txt
+[0.823s] writing entry points to ../../build/flie/flie.egg-info/entry_points.txt
+[0.823s] writing requirements to ../../build/flie/flie.egg-info/requires.txt
+[0.823s] writing top-level names to ../../build/flie/flie.egg-info/top_level.txt
+[0.824s] reading manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+[0.825s] writing manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+[0.825s] running build
+[0.825s] running build_py
+[0.825s] running install
+[0.825s] running install_lib
+[0.826s] running install_data
+[0.826s] running install_egg_info
+[0.828s] removing '/home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie-0.0.0-py3.10.egg-info' (and everything under it)
+[0.828s] Copying ../../build/flie/flie.egg-info to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie-0.0.0-py3.10.egg-info
+[0.828s] running install_scripts
+[0.844s] Installing gate_green script to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[0.844s] Installing prueba_avance script to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[0.844s] writing list of installed files to '/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/install.log'
+[0.865s] Invoked command in '/home/yehousa/Zayolin-kuekuechti/ros2_ws/src/flie' returned '0': PYTHONPATH=/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/flie build --build-base /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build install --record /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/install.log --single-version-externally-managed install_data

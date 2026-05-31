@@ -1,0 +1,4 @@
+[console_scripts]
+gate_green = flie.gate_green:main
+prueba_avance = flie.prueba_avance:main
+

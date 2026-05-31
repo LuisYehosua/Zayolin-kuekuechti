@@ -1,0 +1,48 @@
+running egg_info
+creating ../../build/flie/flie.egg-info
+writing ../../build/flie/flie.egg-info/PKG-INFO
+writing dependency_links to ../../build/flie/flie.egg-info/dependency_links.txt
+writing entry points to ../../build/flie/flie.egg-info/entry_points.txt
+writing requirements to ../../build/flie/flie.egg-info/requires.txt
+writing top-level names to ../../build/flie/flie.egg-info/top_level.txt
+writing manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+reading manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+writing manifest file '../../build/flie/flie.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build
+creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib
+creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+copying flie/motion_commander.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+copying flie/__init__.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+copying flie/gate_green.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+copying flie/Test1.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+copying flie/prueba_avance.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+copying flie/pvideo.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie
+running install
+running install_lib
+creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/motion_commander.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/__init__.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/gate_green.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/Test1.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/prueba_avance.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/build/lib/flie/pvideo.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie
+byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/motion_commander.py to motion_commander.cpython-310.pyc
+byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/gate_green.py to gate_green.cpython-310.pyc
+byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/Test1.py to Test1.cpython-310.pyc
+byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/prueba_avance.py to prueba_avance.cpython-310.pyc
+byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie/pvideo.py to pvideo.cpython-310.pyc
+running install_data
+creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index
+creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index/resource_index
+creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index/resource_index/packages
+copying resource/flie -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index/resource_index/packages
+copying package.xml -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/share/flie
+running install_egg_info
+Copying ../../build/flie/flie.egg-info to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gate_green script to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+Installing prueba_avance script to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+writing list of installed files to '/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/flie/install.log'

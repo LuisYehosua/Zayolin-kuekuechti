@@ -1,0 +1,39 @@
+[1.441s] Invoking command in '/home/yehousa/Zayolin-kuekuechti/ros2_ws/src/vision': PYTHONPATH=/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision build --build-base /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build install --record /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/install.log --single-version-externally-managed install_data
+[1.780s] running egg_info
+[1.780s] creating ../../build/vision/vision.egg-info
+[1.780s] writing ../../build/vision/vision.egg-info/PKG-INFO
+[1.780s] writing dependency_links to ../../build/vision/vision.egg-info/dependency_links.txt
+[1.780s] writing entry points to ../../build/vision/vision.egg-info/entry_points.txt
+[1.781s] writing requirements to ../../build/vision/vision.egg-info/requires.txt
+[1.781s] writing top-level names to ../../build/vision/vision.egg-info/top_level.txt
+[1.781s] writing manifest file '../../build/vision/vision.egg-info/SOURCES.txt'
+[1.781s] reading manifest file '../../build/vision/vision.egg-info/SOURCES.txt'
+[1.782s] writing manifest file '../../build/vision/vision.egg-info/SOURCES.txt'
+[1.782s] running build
+[1.782s] running build_py
+[1.782s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build
+[1.782s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build/lib
+[1.782s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build/lib/vision
+[1.782s] copying vision/object_detector.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build/lib/vision
+[1.782s] copying vision/__init__.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build/lib/vision
+[1.782s] running install
+[1.783s] running install_lib
+[1.783s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages/vision
+[1.783s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build/lib/vision/object_detector.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages/vision
+[1.783s] copying /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build/lib/vision/__init__.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages/vision
+[1.783s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages/vision/object_detector.py to object_detector.cpython-310.pyc
+[1.784s] byte-compiling /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages/vision/__init__.py to __init__.cpython-310.pyc
+[1.784s] running install_data
+[1.784s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/share/ament_index
+[1.784s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/share/ament_index/resource_index
+[1.785s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/share/ament_index/resource_index/packages
+[1.785s] copying resource/vision -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/share/ament_index/resource_index/packages
+[1.785s] copying package.xml -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/share/vision
+[1.785s] creating /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/share/vision/launch
+[1.785s] copying launch/vision.launch.py -> /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/share/vision/launch
+[1.785s] running install_egg_info
+[1.786s] Copying ../../build/vision/vision.egg-info to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages/vision-0.0.0-py3.10.egg-info
+[1.786s] running install_scripts
+[1.801s] Installing object_detector script to /home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/vision
+[1.801s] writing list of installed files to '/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/install.log'
+[1.820s] Invoked command in '/home/yehousa/Zayolin-kuekuechti/ros2_ws/src/vision' returned '0': PYTHONPATH=/home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehousa/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision build --build-base /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/build install --record /home/yehousa/Zayolin-kuekuechti/ros2_ws/build/vision/install.log --single-version-externally-managed install_data
