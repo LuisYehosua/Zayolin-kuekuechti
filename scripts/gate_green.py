@@ -1,11 +1,13 @@
 import logging
 import time
+import os
 
 import cflib.crtp
 from cflib.crazyflie import Crazyflie
 from cflib.crazyflie.syncCrazyflie import SyncCrazyflie
 from cflib.positioning.motion_commander import MotionCommander
-from cflib.crazyflie.log import LogConfig  # Importamos el configurador de logs
+from cflib.crazyflie.log import LogConfig  
+from pynput import keyboard  # Importación para el paro de emergencia
 
 URI = 'radio://0/80/2M'
 
@@ -14,7 +16,6 @@ logging.basicConfig(level=logging.ERROR)
 
 
 # --- FUNCIÓN CALLBACK PARA LOGS ---
-# Esta función se ejecuta automáticamente en segundo plano cada 100ms
 def datos_sensores_callback(timestamp, data, logconf):
     print(
         f"[{timestamp:5d}] "
@@ -24,20 +25,33 @@ def datos_sensores_callback(timestamp, data, logconf):
 
 
 if __name__ == '__main__':
-    # Initialize the low-level drivers (don't list the debug drivers)
+    # Initialize the low-level drivers
     cflib.crtp.init_drivers(enable_debug_driver=False)
 
-    # Nota: Pasamos una instancia explícita de Crazyflie() para poder gestionar logs
     with SyncCrazyflie(URI, cf=Crazyflie()) as scf:
         cf = scf.cf  # Obtenemos la referencia interna del dron
 
         # =================================================================
+        # PARO DE EMERGENCIA (KILL SWITCH)
+        # =================================================================
+        def al_presionar_tecla(tecla):
+            if tecla == keyboard.Key.space:  # Si presionas ESPACIO
+                print("\n[!!!] PARO DE EMERGENCIA ACTIVADO [!!!]")
+                print("Apagando motores inmediatamente...")
+                cf.commander.send_stop_setpoint() # Corta la potencia a 0
+                os._exit(1) # Cierra Python saltándose los time.sleep
+
+        # Inicia el "escuchador" del teclado en segundo plano 1.26m
+        listener = keyboard.Listener(on_press=al_presionar_tecla)
+        listener.start()
+        print(">> PARO DE EMERGENCIA ARMADO: Presiona ESPACIO en cualquier momento para abortar.\n")
+        # =================================================================
+
+        # =================================================================
         # CONFIGURACIÓN DEL LOGGING
         # =================================================================
-        # Creamos la configuración. period_in_ms=10 significa 100ms (10Hz)
-        log_config = LogConfig(name='TelemetriaSensores', period_in_ms=10)
+        log_config = LogConfig(name='TelemetriaSensores', period_in_ms=100)
         
-        # Agregamos las variables que te interesan monitorear
         log_config.add_variable('stateEstimate.x', 'float')
         log_config.add_variable('stateEstimate.y', 'float')
         log_config.add_variable('stateEstimate.z', 'float')
@@ -45,10 +59,8 @@ if __name__ == '__main__':
         log_config.add_variable('stabilizer.pitch', 'float')
         log_config.add_variable('stabilizer.yaw', 'float')
         
-        # Vinculamos la función callback que definimos arriba
         log_config.data_received_cb.add_callback(datos_sensores_callback)
         
-        # Cargamos la configuración en el dron y la encendemos antes del vuelo
         cf.log.add_config(log_config)
         log_config.start()
         # =================================================================
@@ -62,54 +74,68 @@ if __name__ == '__main__':
             print('Taking off!')
             time.sleep(1)
 
-            print('Rolling right 0.2m at 0.73m/s')
-            mc.right(2.0, velocity=0.73)
-            time.sleep(1)
-
             print('Moving up 0.8m')
-            mc.up(0.8)
+            mc.up(0.7)
             time.sleep(1)
 
-            print('Move forward 2.0m at 0.73m/s')
-            mc.forward(2.3, velocity=0.73)
-            time.sleep(1)
-
-            print('Moving up 0.8m')
-            mc.up(0.8)
-            time.sleep(1)
-
-            print('Move forward 2.0m at 0.73m/s')
+            print('Cambio0')
             mc.forward(1.5, velocity=0.73)
-            time.sleep(1)
-
-
-            print('Move down 1.7m')
-            mc.down(1.7)
-            time.sleep(1)
-
-            print('Move forward 2.0m at 0.73m/')
-            mc.forward(2.0, velocity=0.73)
-            time.sleep(1)
-
-            print('Rolling right 1.0m')
-            mc.right(1.0, velocity=0.73)
-            time.sleep(1)
-
-            print('Turn left')
-            mc.turn_left(180)
-            time.sleep(1)
-
-            print('Moving up 0.1m')
-            mc.up(0.1)
-            time.sleep(1)
-
-            print('Move forward 2.0m at 0.73m/')
-            mc.forward(5.0, velocity=0.73)
-            time.sleep(1)
+            time.sleep(2.0) # Pequeña pausa de estabilidad
+            
+            # Sube
+            print('Cambio1')
+            mc.up(0.65)
+            time.sleep(2.0)
+            
+            # Avanza
+            print('Cambio2')
+            mc.forward(1.4, velocity=0.79)
+            time.sleep(2.0)
+            
+            # Baja
+            print('Cambio3')
+            mc.down(1.0)
+            time.sleep(1.0)
+            
+            # Gira
+            print('Cambio4')
+            mc.turn_right(90)
+            time.sleep(1.0) # Corregido typo: yime a time
+            
+            # Avanza
+            print('Cambio5')
+            mc.forward(1.4)
+            time.sleep(1.0)
+            
+            # Gira
+            print('Cambio6')
+            mc.turn_left(270)
+            time.sleep(1.0)
+            
+            # Baja
+            print('Cambio7')
+            mc.down(0.40)
+            time.sleep(1.0)
+            
+            # Avanza
+            print('Cambio8')
+            mc.forward(1.5, velocity=0.73)
+            time.sleep(1.0)
+            
+            # Sube
+            print('Cambio9')
+            mc.up(0.2)
+            time.sleep(1.0)
+            
+            # Avanza
+            print('Cambio10')
+            mc.forward(1.2)
+            time.sleep(1.0)
+            
+            print(" Secuencia completada con éxito.")
 
             # We land when the MotionCommander goes out of scope
             print('Landing!')
-
 
         # Apagamos el streaming de datos al terminar el bloque de vuelo
         log_config.stop()

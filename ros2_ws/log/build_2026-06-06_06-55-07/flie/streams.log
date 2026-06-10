@@ -1,0 +1,18 @@
+[1.086s] Invoking command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/build --no-deps symlink_data
+[1.332s] running develop
+[1.501s] running egg_info
+[1.501s] writing flie.egg-info/PKG-INFO
+[1.501s] writing dependency_links to flie.egg-info/dependency_links.txt
+[1.501s] writing entry points to flie.egg-info/entry_points.txt
+[1.502s] writing requirements to flie.egg-info/requires.txt
+[1.502s] writing top-level names to flie.egg-info/top_level.txt
+[1.503s] reading manifest file 'flie.egg-info/SOURCES.txt'
+[1.504s] writing manifest file 'flie.egg-info/SOURCES.txt'
+[1.505s] running build_ext
+[1.505s] Creating /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie.egg-link (link to .)
+[1.506s] Installing gate_red script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.506s] Installing prueba_avance script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.506s] 
+[1.506s] Installed /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie
+[1.507s] running symlink_data
+[1.568s] Invoked command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie' returned '0': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/build --no-deps symlink_data

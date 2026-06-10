@@ -10,8 +10,12 @@ setup.py
 ../../build/vision/vision.egg-info/zip-safe
 launch/vision.launch.py
 resource/vision
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
 vision/__init__.py
 vision/object_detector.py
+vision.egg-info/PKG-INFO
+vision.egg-info/SOURCES.txt
+vision.egg-info/dependency_links.txt
+vision.egg-info/entry_points.txt
+vision.egg-info/requires.txt
+vision.egg-info/top_level.txt
+vision.egg-info/zip-safe

@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing flie.egg-info/PKG-INFO
+writing dependency_links to flie.egg-info/dependency_links.txt
+writing entry points to flie.egg-info/entry_points.txt
+writing requirements to flie.egg-info/requires.txt
+writing top-level names to flie.egg-info/top_level.txt
+reading manifest file 'flie.egg-info/SOURCES.txt'
+writing manifest file 'flie.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie.egg-link (link to .)
+Installing gate_green script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+Installing prueba_avance script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+
+Installed /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie
+running symlink_data
+symbolically linking /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/resource/flie -> /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/share/ament_index/resource_index/packages
+symbolically linking /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/package.xml -> /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/share/flie

@@ -5,16 +5,16 @@ def generate_launch_description():
 
     window_detector = Node(
         package='flie',
-        executable='gate_green',
-        name='gate_green_window_detector',
+        executable='gate_red',
+        name='gate_red_window_detector',
         output='screen'
     )
 
     rqt_view = Node(
         package='rqt_image_view',
         executable='rqt_image_view',
-        name='m1_blue_view',
-        arguments=['/m1/blue/detections']
+        name='m1_vision_view',
+        arguments=['/m1/vision/detections']
     )
 
     return LaunchDescription([

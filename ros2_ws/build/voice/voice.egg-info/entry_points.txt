@@ -1,0 +1,4 @@
+[console_scripts]
+move_node = voice.move_node:main
+voice_node = voice.voice_node:main
+

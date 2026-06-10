@@ -1,0 +1,18 @@
+[1.117s] Invoking command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice/build --no-deps symlink_data
+[1.373s] running develop
+[1.551s] running egg_info
+[1.551s] writing voice.egg-info/PKG-INFO
+[1.551s] writing dependency_links to voice.egg-info/dependency_links.txt
+[1.551s] writing entry points to voice.egg-info/entry_points.txt
+[1.551s] writing requirements to voice.egg-info/requires.txt
+[1.551s] writing top-level names to voice.egg-info/top_level.txt
+[1.553s] reading manifest file 'voice.egg-info/SOURCES.txt'
+[1.555s] writing manifest file 'voice.egg-info/SOURCES.txt'
+[1.555s] running build_ext
+[1.555s] Creating /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/python3.10/site-packages/voice.egg-link (link to .)
+[1.556s] Installing move_node script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/voice
+[1.556s] Installing voice_node script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/voice
+[1.556s] 
+[1.557s] Installed /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice
+[1.557s] running symlink_data
+[1.585s] Invoked command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice' returned '0': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice/build --no-deps symlink_data

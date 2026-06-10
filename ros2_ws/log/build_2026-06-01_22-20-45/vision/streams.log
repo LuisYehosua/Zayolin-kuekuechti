@@ -1,0 +1,17 @@
+[0.847s] Invoking command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/vision': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/vision/build --no-deps symlink_data
+[1.106s] running develop
+[1.286s] running egg_info
+[1.286s] writing vision.egg-info/PKG-INFO
+[1.286s] writing dependency_links to vision.egg-info/dependency_links.txt
+[1.286s] writing entry points to vision.egg-info/entry_points.txt
+[1.286s] writing requirements to vision.egg-info/requires.txt
+[1.294s] writing top-level names to vision.egg-info/top_level.txt
+[1.296s] reading manifest file 'vision.egg-info/SOURCES.txt'
+[1.296s] writing manifest file 'vision.egg-info/SOURCES.txt'
+[1.298s] running build_ext
+[1.298s] Creating /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages/vision.egg-link (link to .)
+[1.299s] Installing object_detector script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/vision/lib/vision
+[1.299s] 
+[1.300s] Installed /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/vision
+[1.300s] running symlink_data
+[1.356s] Invoked command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/vision' returned '0': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/vision/build --no-deps symlink_data
