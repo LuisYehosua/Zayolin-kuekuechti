@@ -1,4 +1,3 @@
 [console_scripts]
 gate_red = flie.gate_red:main
-prueba_avance = flie.prueba_avance:main
 

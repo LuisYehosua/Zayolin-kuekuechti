@@ -47,6 +47,13 @@ from threading import Thread
 
 from cflib.crazyflie.syncCrazyflie import SyncCrazyflie
 
+# ==========================================
+# VARIABLES COMPARTIDAS CON EL FILTRO
+# ==========================================
+
+CONGELAMIENTO_ACTIVO = False
+Z_CONGELADA = None
+
 
 class MotionCommander:
     """The motion commander"""
@@ -478,5 +485,15 @@ class _SetPointThread(Thread):
         self._hover_setpoint[self.ABS_Z_INDEX] = self._current_z()
 
     def _current_z(self):
+
+        global CONGELAMIENTO_ACTIVO
+        global Z_CONGELADA
+
+        if CONGELAMIENTO_ACTIVO and Z_CONGELADA is not None:
+            return Z_CONGELADA
+
         now = time.time()
-        return self._z_base + self._z_velocity * (now - self._z_base_time)
+
+        return self._z_base + self._z_velocity * (
+            now - self._z_base_time
+        )

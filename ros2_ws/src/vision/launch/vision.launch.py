@@ -15,7 +15,7 @@ def generate_launch_description():
         package='rqt_image_view',
         executable='rqt_image_view',
         name='yolo_view',
-        arguments=['/m1/blue/detections']
+        arguments=['/m1/vision/detections']
     )
 
     return LaunchDescription([

@@ -1,0 +1,599 @@
+[399289] POS -> X:  1.63m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.6° Yaw:   3.6°
+[399389] POS -> X:  1.63m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.6° Yaw:   3.6°
+[399489] POS -> X:  1.63m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.6° Yaw:   3.7°
+[399589] POS -> X:  1.64m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.8° Yaw:   3.7°
+[399689] POS -> X:  1.64m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.7° Yaw:   3.8°
+[399789] POS -> X:  1.64m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.7° Yaw:   3.9°
+[399889] POS -> X:  1.64m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.7° Yaw:   3.9°
+[399989] POS -> X:  1.64m Y:  2.42m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.7° Yaw:   4.0°
+[400089] POS -> X:  1.64m Y:  2.42m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.7° Yaw:   4.0°
+[400189] POS -> X:  1.64m Y:  2.42m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.7° Yaw:   4.1°
+[400289] POS -> X:  1.65m Y:  2.42m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.8° Yaw:   4.2°
+[400389] POS -> X:  1.65m Y:  2.41m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.8° Yaw:   4.2°
+[400489] POS -> X: -0.00m Y: -0.00m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.0° Pitch:   0.0° Yaw:   0.1°
+[400589] POS -> X: -0.00m Y: -0.00m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.0° Pitch:   0.0° Yaw:   0.2°
+[400689] POS -> X: -0.01m Y: -0.01m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.0° Pitch:   0.0° Yaw:   0.3°
+[400789] POS -> X: -0.01m Y: -0.01m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.0° Pitch:   0.0° Yaw:   0.4°
+[400889] POS -> X: -0.02m Y: -0.01m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.0° Pitch:   0.0° Yaw:   0.5°
+[400989] POS -> X: -0.02m Y: -0.02m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   0.6°
+[401089] POS -> X: -0.03m Y: -0.03m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   0.7°
+[401189] POS -> X: -0.04m Y: -0.04m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   0.8°
+[401289] POS -> X: -0.05m Y: -0.05m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   0.8°
+[401389] POS -> X: -0.06m Y: -0.06m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   0.9°
+[401489] POS -> X: -0.08m Y: -0.07m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.0°
+[401589] POS -> X: -0.09m Y: -0.08m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.1°
+[401689] POS -> X: -0.11m Y: -0.10m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.2°
+[401789] POS -> X: -0.12m Y: -0.11m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.3°
+[401889] POS -> X: -0.14m Y: -0.13m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.4°
+[401989] POS -> X: -0.16m Y: -0.14m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.5°
+[402089] POS -> X: -0.18m Y: -0.16m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.5°
+[402189] POS -> X: -0.21m Y: -0.18m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.6°
+[402289] POS -> X: -0.23m Y: -0.20m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.7°
+[402389] POS -> X: -0.25m Y: -0.22m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.8°
+[402489] POS -> X: -0.28m Y: -0.24m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.1° Pitch:   0.0° Yaw:   1.9°
+[402589] POS -> X: -0.31m Y: -0.27m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.2° Pitch:  -0.0° Yaw:   2.0°
+[402689] POS -> X: -0.34m Y: -0.29m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.2° Pitch:  -0.1° Yaw:   2.2°
+[402789] POS -> X: -0.37m Y: -0.31m Z: -0.00m Zf:  0.00m | ANG -> Roll:  -0.5° Pitch:  -0.2° Yaw:   3.2°
+[402889] POS -> X: -0.39m Y: -0.34m Z: -0.00m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -0.5° Yaw:   4.3°
+[402989] POS -> X: -0.42m Y: -0.36m Z:  0.00m Zf:  0.00m | ANG -> Roll:  -0.8° Pitch:  -1.4° Yaw:   3.4°
+[403089] POS -> X:  1.14m Y:  0.30m Z: -0.02m Zf: -0.00m | ANG -> Roll:  -2.5° Pitch:  -5.7° Yaw:   2.1°
+[403189] POS -> X:  1.28m Y:  0.32m Z:  0.01m Zf:  0.00m | ANG -> Roll:  -0.8° Pitch:  -1.3° Yaw:   1.7°
+[403289] POS -> X:  1.35m Y:  0.33m Z: -0.00m Zf: -0.00m | ANG -> Roll:  -2.1° Pitch:  -1.8° Yaw:   1.6°
+[403389] POS -> X:  1.48m Y:  0.36m Z:  0.02m Zf:  0.00m | ANG -> Roll:  -2.5° Pitch:   1.7° Yaw:   1.8°
+[403489] POS -> X:  1.60m Y:  0.42m Z:  0.03m Zf:  0.00m | ANG -> Roll:   1.3° Pitch:  10.7° Yaw:   0.1°
+[403589] POS -> X:  1.69m Y:  0.54m Z:  0.01m Zf:  0.01m | ANG -> Roll:   8.1° Pitch:  14.7° Yaw:  -0.2°
+[403689] POS -> X:  1.62m Y:  0.67m Z: -0.00m Zf:  0.00m | ANG -> Roll:  10.1° Pitch:   6.7° Yaw:   1.1°
+[403789] POS -> X:  1.51m Y:  0.61m Z: -0.00m Zf:  0.00m | ANG -> Roll:  -0.0° Pitch:  -3.6° Yaw:   3.3°
+[403889] POS -> X:  1.48m Y:  0.56m Z:  0.01m Zf:  0.00m | ANG -> Roll:  -0.7° Pitch:  -5.5° Yaw:   4.7°
+[403989] POS -> X:  1.48m Y:  0.60m Z:  0.01m Zf:  0.00m | ANG -> Roll:   1.6° Pitch:   0.5° Yaw:   5.8°
+[404089] POS -> X:  1.47m Y:  0.63m Z:  0.01m Zf:  0.00m | ANG -> Roll:   0.2° Pitch:   1.6° Yaw:   6.5°
+[404189] POS -> X:  1.45m Y:  0.58m Z:  0.04m Zf:  0.01m | ANG -> Roll:  -3.4° Pitch:   1.5° Yaw:   6.1°
+[404289] POS -> X:  1.44m Y:  0.55m Z:  0.08m Zf:  0.02m | ANG -> Roll:  -4.8° Pitch:   0.5° Yaw:   5.2°
+[404389] POS -> X:  1.43m Y:  0.53m Z:  0.12m Zf:  0.03m | ANG -> Roll:  -3.2° Pitch:   0.9° Yaw:   4.8°
+[404489] POS -> X:  1.42m Y:  0.53m Z:  0.13m Zf:  0.04m | ANG -> Roll:  -1.6° Pitch:   0.5° Yaw:   4.3°
+[404589] POS -> X:  1.42m Y:  0.54m Z:  0.14m Zf:  0.05m | ANG -> Roll:   0.2° Pitch:   0.1° Yaw:   3.6°
+[404689] POS -> X:  1.42m Y:  0.55m Z:  0.15m Zf:  0.06m | ANG -> Roll:   1.5° Pitch:   0.3° Yaw:   2.8°
+[404789] POS -> X:  1.42m Y:  0.56m Z:  0.16m Zf:  0.07m | ANG -> Roll:   2.4° Pitch:   0.7° Yaw:   2.2°
+[404889] POS -> X:  1.42m Y:  0.57m Z:  0.17m Zf:  0.08m | ANG -> Roll:   2.5° Pitch:   0.9° Yaw:   1.7°
+[404989] POS -> X:  1.43m Y:  0.58m Z:  0.17m Zf:  0.09m | ANG -> Roll:   1.7° Pitch:   0.6° Yaw:   1.3°
+[405089] POS -> X:  1.43m Y:  0.58m Z:  0.18m Zf:  0.10m | ANG -> Roll:   1.2° Pitch:   0.7° Yaw:   1.1°
+[405189] POS -> X:  1.43m Y:  0.57m Z:  0.19m Zf:  0.11m | ANG -> Roll:   0.8° Pitch:   0.6° Yaw:   1.2°
+[405289] POS -> X:  1.43m Y:  0.57m Z:  0.20m Zf:  0.11m | ANG -> Roll:  -0.7° Pitch:  -0.4° Yaw:   1.0°
+[405389] POS -> X:  1.43m Y:  0.57m Z:  0.22m Zf:  0.13m | ANG -> Roll:  -1.0° Pitch:  -0.6° Yaw:   0.8°
+[405489] POS -> X:  1.42m Y:  0.57m Z:  0.24m Zf:  0.14m | ANG -> Roll:  -0.2° Pitch:   0.3° Yaw:   0.9°
+[405589] POS -> X:  1.43m Y:  0.57m Z:  0.26m Zf:  0.15m | ANG -> Roll:   0.7° Pitch:   1.0° Yaw:   1.3°
+[405689] POS -> X:  1.43m Y:  0.57m Z:  0.29m Zf:  0.16m | ANG -> Roll:   0.5° Pitch:   0.7° Yaw:   1.7°
+[405789] POS -> X:  1.43m Y:  0.57m Z:  0.32m Zf:  0.18m | ANG -> Roll:   1.4° Pitch:   1.7° Yaw:   2.4°
+[405889] POS -> X:  1.43m Y:  0.57m Z:  0.36m Zf:  0.20m | ANG -> Roll:   1.5° Pitch:   1.7° Yaw:   3.3°
+[405989] POS -> X:  1.43m Y:  0.56m Z:  0.39m Zf:  0.22m | ANG -> Roll:   0.8° Pitch:   0.8° Yaw:   4.0°
+[406089] POS -> X:  1.42m Y:  0.56m Z:  0.43m Zf:  0.24m | ANG -> Roll:  -0.4° Pitch:  -0.0° Yaw:   4.4°
+[406189] POS -> X:  1.42m Y:  0.55m Z:  0.47m Zf:  0.26m | ANG -> Roll:  -0.9° Pitch:  -0.8° Yaw:   4.5°
+[406289] POS -> X:  1.41m Y:  0.54m Z:  0.50m Zf:  0.29m | ANG -> Roll:  -1.4° Pitch:  -1.2° Yaw:   4.4°
+[406389] POS -> X:  1.41m Y:  0.54m Z:  0.54m Zf:  0.31m | ANG -> Roll:  -1.2° Pitch:  -1.2° Yaw:   4.2°
+[406489] POS -> X:  1.40m Y:  0.54m Z:  0.56m Zf:  0.34m | ANG -> Roll:  -0.8° Pitch:  -0.9° Yaw:   3.9°
+[406589] POS -> X:  1.40m Y:  0.54m Z:  0.59m Zf:  0.36m | ANG -> Roll:  -0.6° Pitch:  -1.0° Yaw:   3.6°
+[406689] POS -> X:  1.39m Y:  0.55m Z:  0.61m Zf:  0.39m | ANG -> Roll:  -0.6° Pitch:  -0.8° Yaw:   3.1°
+[406789] POS -> X:  1.39m Y:  0.55m Z:  0.63m Zf:  0.41m | ANG -> Roll:   0.4° Pitch:  -0.4° Yaw:   2.9°
+[406889] POS -> X:  1.40m Y:  0.56m Z:  0.66m Zf:  0.44m | ANG -> Roll:   0.9° Pitch:   0.3° Yaw:   2.7°
+[406989] POS -> X:  1.41m Y:  0.56m Z:  0.68m Zf:  0.46m | ANG -> Roll:   0.5° Pitch:   0.1° Yaw:   2.3°
+[407089] POS -> X:  1.42m Y:  0.56m Z:  0.70m Zf:  0.48m | ANG -> Roll:   0.1° Pitch:   0.2° Yaw:   1.9°
+[407189] POS -> X:  1.42m Y:  0.56m Z:  0.72m Zf:  0.51m | ANG -> Roll:  -0.7° Pitch:  -0.3° Yaw:   1.4°
+[407289] POS -> X:  1.44m Y:  0.58m Z:  0.74m Zf:  0.53m | ANG -> Roll:   1.4° Pitch:   1.8° Yaw:   1.8°
+[407389] POS -> X:  1.44m Y:  0.58m Z:  0.76m Zf:  0.55m | ANG -> Roll:   1.0° Pitch:   1.4° Yaw:   2.2°
+[407489] POS -> X:  1.44m Y:  0.58m Z:  0.78m Zf:  0.58m | ANG -> Roll:   1.0° Pitch:   1.2° Yaw:   2.7°
+[407589] POS -> X:  1.43m Y:  0.58m Z:  0.80m Zf:  0.60m | ANG -> Roll:  -0.2° Pitch:  -0.1° Yaw:   2.8°
+[407689] POS -> X:  1.43m Y:  0.57m Z:  0.83m Zf:  0.62m | ANG -> Roll:  -1.9° Pitch:  -1.9° Yaw:   2.6°
+[407789] POS -> X:  1.43m Y:  0.57m Z:  0.85m Zf:  0.65m | ANG -> Roll:  -0.1° Pitch:  -0.2° Yaw:   2.8°
+[407889] POS -> X:  1.43m Y:  0.58m Z:  0.87m Zf:  0.67m | ANG -> Roll:  -0.1° Pitch:  -0.2° Yaw:   2.9°
+[407989] POS -> X:  1.44m Y:  0.58m Z:  0.89m Zf:  0.69m | ANG -> Roll:   0.7° Pitch:   0.4° Yaw:   3.1°
+[408089] POS -> X:  1.45m Y:  0.58m Z:  0.92m Zf:  0.71m | ANG -> Roll:   0.3° Pitch:   0.5° Yaw:   3.2°
+[408189] POS -> X:  1.45m Y:  0.57m Z:  0.94m Zf:  0.74m | ANG -> Roll:  -0.4° Pitch:  -0.0° Yaw:   3.0°
+[408289] POS -> X:  1.45m Y:  0.57m Z:  0.96m Zf:  0.76m | ANG -> Roll:  -0.4° Pitch:   0.2° Yaw:   2.7°
+[408389] POS -> X:  1.45m Y:  0.58m Z:  0.98m Zf:  0.78m | ANG -> Roll:  -0.3° Pitch:   0.1° Yaw:   2.3°
+[408489] POS -> X:  1.45m Y:  0.57m Z:  1.00m Zf:  0.80m | ANG -> Roll:  -0.0° Pitch:   0.3° Yaw:   2.1°
+[408589] POS -> X:  1.46m Y:  0.60m Z:  1.02m Zf:  0.82m | ANG -> Roll:  -0.2° Pitch:  -0.1° Yaw:   1.8°
+[408689] POS -> X:  1.47m Y:  0.59m Z:  1.04m Zf:  0.84m | ANG -> Roll:   1.5° Pitch:   1.3° Yaw:   2.1°
+[408789] POS -> X:  1.47m Y:  0.58m Z:  1.06m Zf:  0.87m | ANG -> Roll:   1.2° Pitch:   1.4° Yaw:   2.5°
+[408889] POS -> X:  1.46m Y:  0.58m Z:  1.08m Zf:  0.89m | ANG -> Roll:   0.9° Pitch:   1.2° Yaw:   2.9°
+[408989] POS -> X:  1.45m Y:  0.58m Z:  1.10m Zf:  0.91m | ANG -> Roll:   0.0° Pitch:   0.1° Yaw:   3.2°
+[409089] POS -> X:  1.43m Y:  0.57m Z:  1.11m Zf:  0.93m | ANG -> Roll:  -0.6° Pitch:  -0.8° Yaw:   3.3°
+[409189] POS -> X:  1.42m Y:  0.56m Z:  1.12m Zf:  0.95m | ANG -> Roll:  -0.8° Pitch:  -1.4° Yaw:   3.2°
+[409289] POS -> X:  1.41m Y:  0.56m Z:  1.13m Zf:  0.97m | ANG -> Roll:  -0.8° Pitch:  -1.4° Yaw:   3.0°
+[409389] POS -> X:  1.41m Y:  0.57m Z:  1.14m Zf:  0.98m | ANG -> Roll:  -0.4° Pitch:  -0.8° Yaw:   2.9°
+[409489] POS -> X:  1.42m Y:  0.58m Z:  1.14m Zf:  1.00m | ANG -> Roll:   0.1° Pitch:  -0.3° Yaw:   2.8°
+[409589] POS -> X:  1.42m Y:  0.59m Z:  1.13m Zf:  1.01m | ANG -> Roll:   0.8° Pitch:  -2.9° Yaw:   2.8°
+[409689] POS -> X:  1.40m Y:  0.59m Z:  1.14m Zf:  1.03m | ANG -> Roll:   0.1° Pitch: -13.6° Yaw:   3.1°
+[409789] POS -> X:  1.43m Y:  0.59m Z:  1.15m Zf:  1.04m | ANG -> Roll:   1.1° Pitch: -12.4° Yaw:   3.1°
+[409889] POS -> X:  1.49m Y:  0.60m Z:  1.14m Zf:  1.05m | ANG -> Roll:   0.1° Pitch: -10.5° Yaw:   2.9°
+[409989] POS -> X:  1.57m Y:  0.60m Z:  1.12m Zf:  1.05m | ANG -> Roll:  -0.3° Pitch:  -6.3° Yaw:   2.7°
+[410089] POS -> X:  1.66m Y:  0.60m Z:  1.09m Zf:  1.06m | ANG -> Roll:  -0.3° Pitch:  -2.3° Yaw:   2.2°
+[410189] POS -> X:  1.73m Y:  0.60m Z:  1.06m Zf:  1.06m | ANG -> Roll:  -0.4° Pitch:   0.5° Yaw:   1.6°
+
+*** ALTURA CONGELADA EN 1.02 m ***
+
+[410289] POS -> X:  1.50m Y:  0.57m Z:  0.64m Zf:  1.02m | ANG -> Roll:  -0.4° Pitch:   2.8° Yaw:   1.1° [CONGELADA:1.02] <-- ANOMALIA Z (dz/dt=-4.21 m/s)
+[410389] POS -> X:  1.38m Y:  0.59m Z:  0.90m Zf:  1.01m | ANG -> Roll:   0.0° Pitch:   2.8° Yaw:   0.8° [CONGELADA:1.02] <-- ANOMALIA Z (dz/dt=2.56 m/s)
+[410489] POS -> X:  1.42m Y:  0.60m Z:  1.09m Zf:  1.01m | ANG -> Roll:  -0.6° Pitch:  -6.6° Yaw:   1.1° [CONGELADA:1.02]
+[410589] POS -> X:  1.48m Y:  0.60m Z:  1.17m Zf:  1.03m | ANG -> Roll:   1.9° Pitch:  -2.4° Yaw:   1.9° [CONGELADA:1.02]
+[410689] POS -> X:  1.54m Y:  0.60m Z:  1.17m Zf:  1.04m | ANG -> Roll:   0.6° Pitch:  -4.7° Yaw:   2.5° [CONGELADA:1.02]
+[410789] POS -> X:  1.59m Y:  0.60m Z:  1.12m Zf:  1.05m | ANG -> Roll:  -0.3° Pitch:  -4.5° Yaw:   2.3° [CONGELADA:1.02]
+[410889] POS -> X:  1.66m Y:  0.60m Z:  1.07m Zf:  1.05m | ANG -> Roll:  -0.7° Pitch:  -3.0° Yaw:   1.7° [CONGELADA:1.02]
+[410989] POS -> X:  1.73m Y:  0.60m Z:  1.03m Zf:  1.05m | ANG -> Roll:  -0.6° Pitch:  -1.5° Yaw:   0.9° [CONGELADA:1.02]
+[411089] POS -> X:  1.79m Y:  0.61m Z:  1.01m Zf:  1.05m | ANG -> Roll:  -0.1° Pitch:  -0.2° Yaw:   0.4° [CONGELADA:1.02]
+[411189] POS -> X:  1.85m Y:  0.61m Z:  1.02m Zf:  1.04m | ANG -> Roll:   0.0° Pitch:  -0.5° Yaw:   0.1° [CONGELADA:1.02]
+[411289] POS -> X:  1.90m Y:  0.61m Z:  1.04m Zf:  1.04m | ANG -> Roll:   0.2° Pitch:  -0.4° Yaw:  -0.1° [CONGELADA:1.02]
+[411389] POS -> X:  1.95m Y:  0.62m Z:  1.07m Zf:  1.05m | ANG -> Roll:   0.6° Pitch:  -0.5° Yaw:  -0.1° [CONGELADA:1.02]
+[411489] POS -> X:  2.01m Y:  0.62m Z:  1.10m Zf:  1.05m | ANG -> Roll:   0.8° Pitch:  -0.7° Yaw:  -0.1° [CONGELADA:1.02]
+[411589] POS -> X:  2.05m Y:  0.63m Z:  1.13m Zf:  1.06m | ANG -> Roll:   0.6° Pitch:  -1.0° Yaw:  -0.0° [CONGELADA:1.02]
+[411689] POS -> X:  2.11m Y:  0.62m Z:  1.15m Zf:  1.07m | ANG -> Roll:   0.2° Pitch:   9.2° Yaw:  -0.0° [CONGELADA:1.02]
+[411789] POS -> X:  2.15m Y:  0.63m Z:  1.18m Zf:  1.08m | ANG -> Roll:   1.2° Pitch:  13.1° Yaw:   0.1° [CONGELADA:1.02]
+
+*** FIN CONGELAMIENTO ALTURA ***
+
+[411889] POS -> X:  2.15m Y:  0.62m Z:  1.19m Zf:  1.09m | ANG -> Roll:  -0.9° Pitch:   9.9° Yaw:   0.3°
+[411989] POS -> X:  2.13m Y:  0.62m Z:  1.17m Zf:  1.10m | ANG -> Roll:   0.0° Pitch:   7.0° Yaw:   0.5°
+[412089] POS -> X:  2.10m Y:  0.62m Z:  1.14m Zf:  1.10m | ANG -> Roll:  -0.8° Pitch:   2.2° Yaw:   0.5°
+[412189] POS -> X:  2.06m Y:  0.62m Z:  1.11m Zf:  1.10m | ANG -> Roll:  -0.3° Pitch:  -1.3° Yaw:   0.3°
+[412289] POS -> X:  2.03m Y:  0.63m Z:  1.09m Zf:  1.10m | ANG -> Roll:   0.9° Pitch:  -2.1° Yaw:   0.5°
+[412389] POS -> X:  2.02m Y:  0.64m Z:  1.09m Zf:  1.10m | ANG -> Roll:   1.4° Pitch:  -1.8° Yaw:   0.8°
+[412489] POS -> X:  1.99m Y:  0.63m Z:  1.09m Zf:  1.10m | ANG -> Roll:   0.3° Pitch:  -2.0° Yaw:   0.7°
+[412589] POS -> X:  1.98m Y:  0.62m Z:  1.10m Zf:  1.10m | ANG -> Roll:  -0.2° Pitch:  -1.8° Yaw:   0.6°
+[412689] POS -> X:  1.98m Y:  0.61m Z:  1.10m Zf:  1.10m | ANG -> Roll:  -0.5° Pitch:  -1.1° Yaw:   0.6°
+[412789] POS -> X:  1.98m Y:  0.61m Z:  1.11m Zf:  1.10m | ANG -> Roll:  -0.2° Pitch:  -0.1° Yaw:   0.8°
+[412889] POS -> X:  1.98m Y:  0.60m Z:  1.11m Zf:  1.10m | ANG -> Roll:  -0.4° Pitch:   0.2° Yaw:   0.9°
+[412989] POS -> X:  1.97m Y:  0.59m Z:  1.11m Zf:  1.10m | ANG -> Roll:  -0.4° Pitch:   0.3° Yaw:   1.0°
+[413089] POS -> X:  1.96m Y:  0.59m Z:  1.11m Zf:  1.10m | ANG -> Roll:  -0.5° Pitch:   0.0° Yaw:   1.0°
+[413189] POS -> X:  1.94m Y:  0.59m Z:  1.10m Zf:  1.10m | ANG -> Roll:  -0.6° Pitch:  -0.3° Yaw:   1.0°
+[413289] POS -> X:  1.93m Y:  0.59m Z:  1.10m Zf:  1.10m | ANG -> Roll:  -0.5° Pitch:  -0.8° Yaw:   0.9°
+[413389] POS -> X:  1.92m Y:  0.60m Z:  1.09m Zf:  1.10m | ANG -> Roll:  -0.1° Pitch:  -0.9° Yaw:   0.8°
+[413489] POS -> X:  1.92m Y:  0.61m Z:  1.09m Zf:  1.10m | ANG -> Roll:   0.2° Pitch:  -0.7° Yaw:   0.7°
+[413589] POS -> X:  1.92m Y:  0.62m Z:  1.08m Zf:  1.10m | ANG -> Roll:   0.6° Pitch:  -0.5° Yaw:   0.7°
+[413689] POS -> X:  1.92m Y:  0.62m Z:  1.08m Zf:  1.10m | ANG -> Roll:   0.7° Pitch:  -0.1° Yaw:   0.8°
+[413789] POS -> X:  1.94m Y:  0.63m Z:  1.07m Zf:  1.09m | ANG -> Roll:   0.9° Pitch:   0.5° Yaw:   0.9°
+[413889] POS -> X:  1.95m Y:  0.61m Z:  1.07m Zf:  1.09m | ANG -> Roll:   0.7° Pitch:   0.8° Yaw:   1.1°
+[413989] POS -> X:  1.95m Y:  0.60m Z:  1.07m Zf:  1.09m | ANG -> Roll:   0.3° Pitch:   0.7° Yaw:   1.3°
+[414089] POS -> X:  1.93m Y:  0.58m Z:  1.07m Zf:  1.09m | ANG -> Roll:  -0.4° Pitch:   0.3° Yaw:   1.4°
+[414189] POS -> X:  1.92m Y:  0.56m Z:  1.08m Zf:  1.09m | ANG -> Roll:  -0.6° Pitch:   0.2° Yaw:   1.6°
+[414289] POS -> X:  1.91m Y:  0.55m Z:  1.09m Zf:  1.09m | ANG -> Roll:  -1.0° Pitch:  -0.3° Yaw:   1.8°
+[414389] POS -> X:  1.90m Y:  0.55m Z:  1.11m Zf:  1.09m | ANG -> Roll:  -1.0° Pitch:  -0.8° Yaw:   1.8°
+[414489] POS -> X:  1.88m Y:  0.55m Z:  1.12m Zf:  1.09m | ANG -> Roll:  -0.8° Pitch:  -1.0° Yaw:   1.6°
+[414589] POS -> X:  1.88m Y:  0.57m Z:  1.14m Zf:  1.10m | ANG -> Roll:  -0.2° Pitch:  -0.8° Yaw:   1.5°
+[414689] POS -> X:  1.88m Y:  0.59m Z:  1.16m Zf:  1.10m | ANG -> Roll:   0.4° Pitch:  -0.4° Yaw:   1.3°
+[414789] POS -> X:  1.90m Y:  0.60m Z:  1.19m Zf:  1.11m | ANG -> Roll:   0.8° Pitch:  -0.0° Yaw:   1.2°
+[414889] POS -> X:  1.91m Y:  0.61m Z:  1.21m Zf:  1.12m | ANG -> Roll:   1.0° Pitch:   0.4° Yaw:   1.2°
+[414989] POS -> X:  1.92m Y:  0.60m Z:  1.23m Zf:  1.13m | ANG -> Roll:   0.9° Pitch:   0.8° Yaw:   1.2°
+[415089] POS -> X:  1.92m Y:  0.60m Z:  1.25m Zf:  1.14m | ANG -> Roll:   0.6° Pitch:   0.8° Yaw:   1.3°
+[415189] POS -> X:  1.92m Y:  0.59m Z:  1.28m Zf:  1.16m | ANG -> Roll:   0.2° Pitch:   0.7° Yaw:   1.4°
+[415289] POS -> X:  1.91m Y:  0.57m Z:  1.30m Zf:  1.17m | ANG -> Roll:  -0.3° Pitch:   0.2° Yaw:   1.5°
+[415389] POS -> X:  1.89m Y:  0.56m Z:  1.32m Zf:  1.19m | ANG -> Roll:  -0.8° Pitch:  -0.4° Yaw:   1.5°
+[415489] POS -> X:  1.88m Y:  0.56m Z:  1.35m Zf:  1.20m | ANG -> Roll:  -1.0° Pitch:  -0.9° Yaw:   1.5°
+[415589] POS -> X:  1.87m Y:  0.55m Z:  1.37m Zf:  1.22m | ANG -> Roll:  -1.0° Pitch:  -1.0° Yaw:   1.5°
+[415689] POS -> X:  1.88m Y:  0.56m Z:  1.39m Zf:  1.24m | ANG -> Roll:  -0.5° Pitch:  -0.8° Yaw:   1.4°
+[415789] POS -> X:  1.88m Y:  0.58m Z:  1.40m Zf:  1.25m | ANG -> Roll:  -0.0° Pitch:  -0.4° Yaw:   1.4°
+[415889] POS -> X:  1.88m Y:  0.60m Z:  1.42m Zf:  1.27m | ANG -> Roll:   0.4° Pitch:  -0.1° Yaw:   1.3°
+[415989] POS -> X:  1.89m Y:  0.61m Z:  1.44m Zf:  1.29m | ANG -> Roll:   0.5° Pitch:  -0.1° Yaw:   1.2°
+[416089] POS -> X:  1.89m Y:  0.61m Z:  1.46m Zf:  1.30m | ANG -> Roll:   0.2° Pitch:  -0.4° Yaw:   1.0°
+[416189] POS -> X:  1.89m Y:  0.61m Z:  1.48m Zf:  1.32m | ANG -> Roll:   0.1° Pitch:  -0.2° Yaw:   0.8°
+[416289] POS -> X:  1.90m Y:  0.62m Z:  1.50m Zf:  1.34m | ANG -> Roll:   0.2° Pitch:   0.0° Yaw:   0.7°
+[416389] POS -> X:  1.91m Y:  0.64m Z:  1.52m Zf:  1.36m | ANG -> Roll:   0.5° Pitch:   0.4° Yaw:   0.6°
+[416489] POS -> X:  1.95m Y:  0.64m Z:  1.54m Zf:  1.38m | ANG -> Roll:   0.5° Pitch:   0.5° Yaw:   0.5°
+[416589] POS -> X:  1.96m Y:  0.63m Z:  1.56m Zf:  1.39m | ANG -> Roll:   1.1° Pitch:   1.5° Yaw:   0.7°
+[416689] POS -> X:  1.95m Y:  0.63m Z:  1.58m Zf:  1.41m | ANG -> Roll:   0.6° Pitch:   1.4° Yaw:   0.9°
+[416789] POS -> X:  1.95m Y:  0.64m Z:  1.60m Zf:  1.43m | ANG -> Roll:   0.8° Pitch:   1.3° Yaw:   1.3°
+[416889] POS -> X:  1.94m Y:  0.63m Z:  1.62m Zf:  1.45m | ANG -> Roll:   0.3° Pitch:   0.3° Yaw:   1.7°
+[416989] POS -> X:  1.90m Y:  0.62m Z:  1.65m Zf:  1.47m | ANG -> Roll:  -0.8° Pitch:  -1.2° Yaw:   1.6°
+[417089] POS -> X:  1.87m Y:  0.62m Z:  1.67m Zf:  1.49m | ANG -> Roll:  -1.0° Pitch:  -2.0° Yaw:   1.5°
+[417189] POS -> X:  1.87m Y:  0.62m Z:  1.69m Zf:  1.51m | ANG -> Roll:  -0.6° Pitch:  -1.7° Yaw:   1.5°
+[417289] POS -> X:  1.87m Y:  0.62m Z:  1.71m Zf:  1.53m | ANG -> Roll:   0.3° Pitch:  -0.7° Yaw:   1.7°
+[417389] POS -> X:  1.87m Y:  0.64m Z:  1.73m Zf:  1.55m | ANG -> Roll:   1.1° Pitch:   0.6° Yaw:   2.1°
+[417489] POS -> X:  1.86m Y:  0.63m Z:  1.74m Zf:  1.57m | ANG -> Roll:   0.6° Pitch:   0.1° Yaw:   2.3°
+[417589] POS -> X:  1.85m Y:  0.62m Z:  1.75m Zf:  1.59m | ANG -> Roll:   0.3° Pitch:   0.0° Yaw:   2.4°
+[417689] POS -> X:  1.84m Y:  0.60m Z:  1.75m Zf:  1.60m | ANG -> Roll:  -0.1° Pitch:  -0.1° Yaw:   2.5°
+[417789] POS -> X:  1.84m Y:  0.59m Z:  1.75m Zf:  1.62m | ANG -> Roll:   0.0° Pitch:   0.3° Yaw:   2.8°
+[417889] POS -> X:  1.84m Y:  0.60m Z:  1.75m Zf:  1.63m | ANG -> Roll:  -0.3° Pitch:  -0.1° Yaw:   2.9°
+[417989] POS -> X:  1.84m Y:  0.57m Z:  1.75m Zf:  1.64m | ANG -> Roll:  -0.8° Pitch:  -0.6° Yaw:   2.9°
+[418089] POS -> X:  1.85m Y:  0.56m Z:  1.75m Zf:  1.65m | ANG -> Roll:  -0.9° Pitch:  -0.6° Yaw:   2.8°
+[418189] POS -> X:  1.84m Y:  0.58m Z:  1.74m Zf:  1.66m | ANG -> Roll:  -0.7° Pitch:  -0.3° Yaw:   2.9°
+[418289] POS -> X:  1.86m Y:  0.59m Z:  1.74m Zf:  1.67m | ANG -> Roll:  -0.2° Pitch:  -0.0° Yaw:   2.8°
+[418389] POS -> X:  1.85m Y:  0.61m Z:  1.74m Zf:  1.68m | ANG -> Roll:   0.2° Pitch:   0.1° Yaw:   2.9°
+[418489] POS -> X:  1.87m Y:  0.63m Z:  1.73m Zf:  1.68m | ANG -> Roll:   0.4° Pitch:   0.3° Yaw:   2.9°
+[418589] POS -> X:  1.87m Y:  0.66m Z:  1.73m Zf:  1.69m | ANG -> Roll:   0.7° Pitch:   0.4° Yaw:   2.9°
+[418689] POS -> X:  1.87m Y:  0.67m Z:  1.72m Zf:  1.69m | ANG -> Roll:   0.7° Pitch:   0.4° Yaw:   3.0°
+[418789] POS -> X:  1.85m Y:  0.67m Z:  1.72m Zf:  1.69m | ANG -> Roll:   0.7° Pitch:   0.1° Yaw:   3.1°
+[418889] POS -> X:  1.85m Y:  0.65m Z:  1.72m Zf:  1.70m | ANG -> Roll:   0.7° Pitch:  -1.2° Yaw:   3.2°
+[418989] POS -> X:  1.78m Y:  0.67m Z:  1.73m Zf:  1.70m | ANG -> Roll:  -0.5° Pitch: -13.5° Yaw:   3.7°
+[419089] POS -> X:  1.78m Y:  0.67m Z:  1.75m Zf:  1.70m | ANG -> Roll:   0.1° Pitch: -13.9° Yaw:   4.2°
+[419189] POS -> X:  1.83m Y:  0.67m Z:  1.74m Zf:  1.71m | ANG -> Roll:   0.4° Pitch: -11.3° Yaw:   4.6°
+[419289] POS -> X:  1.91m Y:  0.67m Z:  1.72m Zf:  1.71m | ANG -> Roll:  -0.9° Pitch:  -8.0° Yaw:   4.3°
+[419389] POS -> X:  2.01m Y:  0.68m Z:  1.68m Zf:  1.71m | ANG -> Roll:  -0.7° Pitch:  -3.7° Yaw:   3.7°
+[419489] POS -> X:  2.08m Y:  0.68m Z:  1.66m Zf:  1.70m | ANG -> Roll:  -0.4° Pitch:   0.6° Yaw:   2.6°
+[419589] POS -> X:  2.15m Y:  0.68m Z:  1.65m Zf:  1.70m | ANG -> Roll:   0.4° Pitch:   2.6° Yaw:   1.5°
+[419689] POS -> X:  2.21m Y:  0.70m Z:  1.66m Zf:  1.69m | ANG -> Roll:   1.0° Pitch:   2.2° Yaw:   0.7°
+[419789] POS -> X:  2.27m Y:  0.73m Z:  1.68m Zf:  1.69m | ANG -> Roll:   1.5° Pitch:   1.1° Yaw:   0.3°
+[419889] POS -> X:  2.33m Y:  0.74m Z:  1.69m Zf:  1.69m | ANG -> Roll:   1.8° Pitch:  -0.1° Yaw:   0.1°
+[419989] POS -> X:  2.38m Y:  0.75m Z:  1.70m Zf:  1.69m | ANG -> Roll:   1.7° Pitch:  -1.1° Yaw:   0.1°
+[420089] POS -> X:  2.42m Y:  0.75m Z:  1.72m Zf:  1.69m | ANG -> Roll:   1.1° Pitch:  -1.6° Yaw:   0.2°
+[420189] POS -> X:  2.48m Y:  0.75m Z:  1.72m Zf:  1.70m | ANG -> Roll:   0.5° Pitch:  -1.7° Yaw:   0.3°
+[420289] POS -> X:  2.53m Y:  0.74m Z:  1.72m Zf:  1.70m | ANG -> Roll:   0.0° Pitch:  -1.3° Yaw:   0.4°
+[420389] POS -> X:  2.58m Y:  0.74m Z:  1.72m Zf:  1.70m | ANG -> Roll:  -0.4° Pitch:  -1.1° Yaw:   0.5°
+[420489] POS -> X:  2.61m Y:  0.74m Z:  1.71m Zf:  1.70m | ANG -> Roll:  -0.4° Pitch:  -0.9° Yaw:   0.6°
+[420589] POS -> X:  2.65m Y:  0.75m Z:  1.71m Zf:  1.70m | ANG -> Roll:  -0.3° Pitch:  -1.0° Yaw:   0.7°
+[420689] POS -> X:  2.72m Y:  0.77m Z:  1.70m Zf:  1.70m | ANG -> Roll:  -0.2° Pitch:  -1.2° Yaw:   0.9°
+[420789] POS -> X:  2.77m Y:  0.78m Z:  1.70m Zf:  1.70m | ANG -> Roll:   0.1° Pitch:  -1.0° Yaw:   1.0°
+[420889] POS -> X:  2.84m Y:  0.78m Z:  1.71m Zf:  1.70m | ANG -> Roll:   0.3° Pitch:  -0.8° Yaw:   1.1°
+[420989] POS -> X:  2.88m Y:  0.80m Z:  1.71m Zf:  1.70m | ANG -> Roll:   0.5° Pitch:  -0.5° Yaw:   1.2°
+[421089] POS -> X:  2.92m Y:  0.81m Z:  1.71m Zf:  1.71m | ANG -> Roll:   0.3° Pitch:   0.6° Yaw:   1.2°
+[421189] POS -> X:  2.99m Y:  0.80m Z:  1.72m Zf:  1.71m | ANG -> Roll:   0.8° Pitch:  12.1° Yaw:   1.1°
+[421289] POS -> X:  3.01m Y:  0.82m Z:  1.73m Zf:  1.71m | ANG -> Roll:   0.5° Pitch:  11.9° Yaw:   1.1°
+[421389] POS -> X:  2.99m Y:  0.81m Z:  1.72m Zf:  1.71m | ANG -> Roll:  -0.4° Pitch:   9.4° Yaw:   1.1°
+[421489] POS -> X:  2.96m Y:  0.83m Z:  1.69m Zf:  1.71m | ANG -> Roll:  -0.6° Pitch:   4.8° Yaw:   1.0°
+[421589] POS -> X:  2.91m Y:  0.82m Z:  1.66m Zf:  1.70m | ANG -> Roll:  -0.6° Pitch:   0.2° Yaw:   1.0°
+[421689] POS -> X:  2.88m Y:  0.84m Z:  1.64m Zf:  1.70m | ANG -> Roll:   0.3° Pitch:  -2.2° Yaw:   1.5°
+[421789] POS -> X:  2.86m Y:  0.85m Z:  1.64m Zf:  1.69m | ANG -> Roll:   0.9° Pitch:  -3.0° Yaw:   2.0°
+[421889] POS -> X:  2.84m Y:  0.87m Z:  1.64m Zf:  1.69m | ANG -> Roll:   1.5° Pitch:  -2.1° Yaw:   2.5°
+[421989] POS -> X:  2.85m Y:  0.88m Z:  1.66m Zf:  1.68m | ANG -> Roll:   1.3° Pitch:  -1.2° Yaw:   2.9°
+[422089] POS -> X:  2.85m Y:  0.88m Z:  1.68m Zf:  1.68m | ANG -> Roll:   0.7° Pitch:  -0.5° Yaw:   3.0°
+[422189] POS -> X:  2.86m Y:  0.87m Z:  1.69m Zf:  1.68m | ANG -> Roll:   0.2° Pitch:   0.1° Yaw:   3.2°
+[422289] POS -> X:  2.87m Y:  0.87m Z:  1.69m Zf:  1.68m | ANG -> Roll:  -0.1° Pitch:   0.5° Yaw:   3.2°
+[422389] POS -> X:  2.88m Y:  0.87m Z:  1.70m Zf:  1.69m | ANG -> Roll:  -0.3° Pitch:   0.6° Yaw:   3.1°
+[422489] POS -> X:  2.88m Y:  0.87m Z:  1.71m Zf:  1.69m | ANG -> Roll:  -0.5° Pitch:   0.5° Yaw:   2.9°
+[422589] POS -> X:  2.88m Y:  0.87m Z:  1.71m Zf:  1.69m | ANG -> Roll:  -0.4° Pitch:   0.2° Yaw:   2.7°
+[422689] POS -> X:  2.88m Y:  0.88m Z:  1.71m Zf:  1.69m | ANG -> Roll:  -0.2° Pitch:   0.2° Yaw:   2.6°
+[422789] POS -> X:  2.89m Y:  0.91m Z:  1.70m Zf:  1.69m | ANG -> Roll:   0.2° Pitch:   0.2° Yaw:   2.5°
+[422889] POS -> X:  2.90m Y:  0.93m Z:  1.70m Zf:  1.69m | ANG -> Roll:   0.6° Pitch:   0.3° Yaw:   2.4°
+[422989] POS -> X:  2.92m Y:  0.94m Z:  1.69m Zf:  1.69m | ANG -> Roll:   1.0° Pitch:   0.3° Yaw:   2.5°
+[423089] POS -> X:  2.93m Y:  0.94m Z:  1.69m Zf:  1.69m | ANG -> Roll:   1.2° Pitch:   1.0° Yaw:   2.7°
+[423189] POS -> X:  2.95m Y:  0.94m Z:  1.69m Zf:  1.69m | ANG -> Roll:   0.8° Pitch:   0.9° Yaw:   2.8°
+[423289] POS -> X:  2.95m Y:  0.92m Z:  1.68m Zf:  1.69m | ANG -> Roll:   0.5° Pitch:   0.9° Yaw:   3.0°
+[423389] POS -> X:  2.95m Y:  0.90m Z:  1.67m Zf:  1.69m | ANG -> Roll:  -0.2° Pitch:   0.5° Yaw:   3.0°
+[423489] POS -> X:  2.95m Y:  0.89m Z:  1.68m Zf:  1.69m | ANG -> Roll:  -1.0° Pitch:   0.0° Yaw:   3.0°
+[423589] POS -> X:  2.95m Y:  0.89m Z:  1.67m Zf:  1.69m | ANG -> Roll:  -0.9° Pitch:  -0.1° Yaw:   3.1°
+[423689] POS -> X:  2.95m Y:  0.90m Z:  1.66m Zf:  1.68m | ANG -> Roll:  -1.0° Pitch:  -0.3° Yaw:   3.0°
+[423789] POS -> X:  2.97m Y:  0.92m Z:  1.65m Zf:  1.68m | ANG -> Roll:  -0.3° Pitch:  -0.2° Yaw:   2.9°
+[423889] POS -> X:  2.98m Y:  0.94m Z:  1.63m Zf:  1.68m | ANG -> Roll:  -0.0° Pitch:  -0.1° Yaw:   2.7°
+[423989] POS -> X:  2.99m Y:  0.97m Z:  1.61m Zf:  1.67m | ANG -> Roll:   0.5° Pitch:   0.1° Yaw:   2.4°
+[424089] POS -> X:  3.00m Y:  1.00m Z:  1.58m Zf:  1.66m | ANG -> Roll:   0.9° Pitch:   0.5° Yaw:   2.1°
+[424189] POS -> X:  3.03m Y:  1.02m Z:  1.55m Zf:  1.65m | ANG -> Roll:   1.2° Pitch:   0.6° Yaw:   1.7°
+[424289] POS -> X:  3.04m Y:  1.03m Z:  1.53m Zf:  1.64m | ANG -> Roll:   1.2° Pitch:   0.8° Yaw:   1.2°
+[424389] POS -> X:  3.06m Y:  1.03m Z:  1.50m Zf:  1.62m | ANG -> Roll:   0.9° Pitch:   0.7° Yaw:   0.6°
+[424489] POS -> X:  3.05m Y:  1.01m Z:  1.48m Zf:  1.61m | ANG -> Roll:   0.7° Pitch:   0.7° Yaw:  -0.0°
+[424589] POS -> X:  3.05m Y:  1.02m Z:  1.46m Zf:  1.59m | ANG -> Roll:   0.3° Pitch:   0.5° Yaw:  -0.6°
+[424689] POS -> X:  3.04m Y:  1.07m Z:  1.44m Zf:  1.58m | ANG -> Roll:  -0.0° Pitch:   0.0° Yaw:  -1.1°
+[424789] POS -> X:  3.04m Y:  1.06m Z:  1.41m Zf:  1.56m | ANG -> Roll:   0.3° Pitch:  -0.3° Yaw:  -1.6°
+[424889] POS -> X:  3.05m Y:  1.11m Z:  1.39m Zf:  1.54m | ANG -> Roll:   0.5° Pitch:  -0.4° Yaw:  -2.0°
+[424989] POS -> X:  3.05m Y:  1.11m Z:  1.36m Zf:  1.53m | ANG -> Roll:   1.1° Pitch:  -0.4° Yaw:  -2.3°
+[425089] POS -> X:  3.05m Y:  1.11m Z:  1.34m Zf:  1.51m | ANG -> Roll:   1.2° Pitch:  -0.3° Yaw:  -2.5°
+[425189] POS -> X:  3.06m Y:  1.09m Z:  1.32m Zf:  1.49m | ANG -> Roll:   0.9° Pitch:  -0.2° Yaw:  -2.5°
+[425289] POS -> X:  3.07m Y:  1.07m Z:  1.30m Zf:  1.47m | ANG -> Roll:   0.2° Pitch:   0.1° Yaw:  -2.4°
+[425389] POS -> X:  3.08m Y:  1.05m Z:  1.28m Zf:  1.45m | ANG -> Roll:  -0.1° Pitch:   0.4° Yaw:  -2.0°
+[425489] POS -> X:  3.08m Y:  1.03m Z:  1.25m Zf:  1.43m | ANG -> Roll:  -0.8° Pitch:   0.6° Yaw:  -1.6°
+[425589] POS -> X:  3.09m Y:  1.01m Z:  1.23m Zf:  1.41m | ANG -> Roll:  -1.1° Pitch:   0.5° Yaw:  -1.2°
+[425689] POS -> X:  3.10m Y:  1.00m Z:  1.21m Zf:  1.39m | ANG -> Roll:  -1.2° Pitch:   0.5° Yaw:  -0.9°
+[425789] POS -> X:  3.10m Y:  1.03m Z:  1.19m Zf:  1.37m | ANG -> Roll:  -0.8° Pitch:   0.5° Yaw:  -0.5°
+[425889] POS -> X:  3.10m Y:  1.06m Z:  1.17m Zf:  1.35m | ANG -> Roll:   0.2° Pitch:   0.7° Yaw:  -0.1°
+[425989] POS -> X:  3.11m Y:  1.09m Z:  1.15m Zf:  1.33m | ANG -> Roll:   0.7° Pitch:   0.2° Yaw:   0.1°
+[426089] POS -> X:  3.10m Y:  1.10m Z:  1.14m Zf:  1.31m | ANG -> Roll:   0.9° Pitch:  -0.0° Yaw:   0.4°
+[426189] POS -> X:  3.10m Y:  1.10m Z:  1.12m Zf:  1.29m | ANG -> Roll:   1.3° Pitch:  -0.1° Yaw:   0.7°
+[426289] POS -> X:  3.09m Y:  1.09m Z:  1.10m Zf:  1.27m | ANG -> Roll:   0.9° Pitch:  -0.3° Yaw:   0.8°
+[426389] POS -> X:  3.08m Y:  1.09m Z:  1.07m Zf:  1.25m | ANG -> Roll:   0.2° Pitch:  -0.4° Yaw:   0.8°
+[426489] POS -> X:  3.06m Y:  1.10m Z:  1.05m Zf:  1.23m | ANG -> Roll:  -0.4° Pitch:  -0.5° Yaw:   0.7°
+[426589] POS -> X:  3.06m Y:  1.09m Z:  1.02m Zf:  1.21m | ANG -> Roll:  -0.2° Pitch:  -0.5° Yaw:   0.6°
+[426689] POS -> X:  3.06m Y:  1.07m Z:  1.00m Zf:  1.19m | ANG -> Roll:  -0.3° Pitch:  -0.4° Yaw:   0.6°
+[426789] POS -> X:  3.07m Y:  1.07m Z:  0.98m Zf:  1.17m | ANG -> Roll:  -0.2° Pitch:   0.1° Yaw:   0.6°
+[426889] POS -> X:  3.09m Y:  1.07m Z:  0.96m Zf:  1.15m | ANG -> Roll:  -0.4° Pitch:   0.4° Yaw:   0.6°
+[426989] POS -> X:  3.11m Y:  1.03m Z:  0.94m Zf:  1.13m | ANG -> Roll:  -0.2° Pitch:   0.5° Yaw:   0.6°
+[427089] POS -> X:  3.11m Y:  1.03m Z:  0.92m Zf:  1.11m | ANG -> Roll:  -0.8° Pitch:   0.7° Yaw:   0.5°
+[427189] POS -> X:  3.10m Y:  1.03m Z:  0.90m Zf:  1.09m | ANG -> Roll:  -0.8° Pitch:   0.6° Yaw:   0.4°
+[427289] POS -> X:  3.09m Y:  1.03m Z:  0.88m Zf:  1.07m | ANG -> Roll:  -0.7° Pitch:  -0.0° Yaw:   0.3°
+[427389] POS -> X:  3.07m Y:  1.05m Z:  0.85m Zf:  1.04m | ANG -> Roll:  -0.4° Pitch:  -0.4° Yaw:   0.2°
+[427489] POS -> X:  3.06m Y:  1.06m Z:  0.83m Zf:  1.02m | ANG -> Roll:   0.3° Pitch:  -0.6° Yaw:   0.2°
+[427589] POS -> X:  3.05m Y:  1.07m Z:  0.81m Zf:  1.00m | ANG -> Roll:   1.1° Pitch:  -0.6° Yaw:   0.3°
+[427689] POS -> X:  3.05m Y:  1.07m Z:  0.79m Zf:  0.98m | ANG -> Roll:   1.0° Pitch:  -0.8° Yaw:   0.4°
+[427789] POS -> X:  3.06m Y:  1.06m Z:  0.77m Zf:  0.96m | ANG -> Roll:   1.0° Pitch:  -0.4° Yaw:   0.7°
+[427889] POS -> X:  3.06m Y:  1.05m Z:  0.75m Zf:  0.94m | ANG -> Roll:   0.5° Pitch:  -0.0° Yaw:   1.0°
+[427989] POS -> X:  3.06m Y:  1.04m Z:  0.73m Zf:  0.92m | ANG -> Roll:  -0.4° Pitch:  -0.1° Yaw:   1.2°
+[428089] POS -> X:  3.06m Y:  1.03m Z:  0.71m Zf:  0.90m | ANG -> Roll:  -1.0° Pitch:  -0.2° Yaw:   1.3°
+[428189] POS -> X:  3.05m Y:  1.02m Z:  0.70m Zf:  0.88m | ANG -> Roll:  -1.2° Pitch:  -0.3° Yaw:   1.4°
+[428289] POS -> X:  3.06m Y:  1.02m Z:  0.67m Zf:  0.86m | ANG -> Roll:  -1.1° Pitch:  -0.2° Yaw:   1.4°
+[428389] POS -> X:  3.06m Y:  1.02m Z:  0.65m Zf:  0.84m | ANG -> Roll:  -0.4° Pitch:   0.2° Yaw:   1.4°
+[428489] POS -> X:  3.05m Y:  1.03m Z:  0.63m Zf:  0.82m | ANG -> Roll:  -0.2° Pitch:   0.3° Yaw:   1.3°
+[428589] POS -> X:  3.05m Y:  1.04m Z:  0.61m Zf:  0.80m | ANG -> Roll:   0.3° Pitch:   0.2° Yaw:   1.4°
+[428689] POS -> X:  3.05m Y:  1.04m Z:  0.60m Zf:  0.78m | ANG -> Roll:   0.9° Pitch:  -0.2° Yaw:   1.4°
+[428789] POS -> X:  3.04m Y:  1.05m Z:  0.60m Zf:  0.76m | ANG -> Roll:   1.0° Pitch:  -0.4° Yaw:   1.5°
+[428889] POS -> X:  3.04m Y:  1.05m Z:  0.59m Zf:  0.74m | ANG -> Roll:   0.8° Pitch:  -0.4° Yaw:   1.7°
+[428989] POS -> X:  3.05m Y:  1.04m Z:  0.59m Zf:  0.73m | ANG -> Roll:   0.3° Pitch:  -0.1° Yaw:   2.0°
+[429089] POS -> X:  3.05m Y:  1.04m Z:  0.60m Zf:  0.71m | ANG -> Roll:  -0.3° Pitch:   0.1° Yaw:   2.2°
+[429189] POS -> X:  3.05m Y:  1.03m Z:  0.60m Zf:  0.70m | ANG -> Roll:  -0.2° Pitch:   0.3° Yaw:   1.4°
+[429289] POS -> X:  3.05m Y:  1.03m Z:  0.60m Zf:  0.69m | ANG -> Roll:  -0.4° Pitch:   0.2° Yaw:  -1.4°
+[429389] POS -> X:  3.06m Y:  1.03m Z:  0.61m Zf:  0.68m | ANG -> Roll:  -0.6° Pitch:   0.3° Yaw:  -6.0°
+[429489] POS -> X:  3.07m Y:  1.03m Z:  0.62m Zf:  0.68m | ANG -> Roll:  -0.6° Pitch:   0.1° Yaw: -12.3°
+[429589] POS -> X:  3.05m Y:  1.04m Z:  0.62m Zf:  0.67m | ANG -> Roll:   0.3° Pitch:   1.1° Yaw: -18.8°
+[429689] POS -> X:  3.04m Y:  1.05m Z:  0.62m Zf:  0.67m | ANG -> Roll:   0.6° Pitch:  -0.3° Yaw: -26.6°
+[429789] POS -> X:  3.02m Y:  1.05m Z:  0.62m Zf:  0.66m | ANG -> Roll:   0.4° Pitch:  -1.1° Yaw: -34.4°
+[429889] POS -> X:  3.03m Y:  1.07m Z:  0.62m Zf:  0.66m | ANG -> Roll:  -0.2° Pitch:  -1.7° Yaw: -42.3°
+[429989] POS -> X:  3.01m Y:  1.08m Z:  0.62m Zf:  0.65m | ANG -> Roll:   0.4° Pitch:  -1.5° Yaw: -50.0°
+[430089] POS -> X:  3.00m Y:  1.08m Z:  0.62m Zf:  0.65m | ANG -> Roll:   0.2° Pitch:  -1.2° Yaw: -57.7°
+[430189] POS -> X:  2.98m Y:  1.08m Z:  0.62m Zf:  0.65m | ANG -> Roll:  -0.6° Pitch:  -1.2° Yaw: -65.3°
+[430289] POS -> X:  2.98m Y:  1.07m Z:  0.62m Zf:  0.65m | ANG -> Roll:  -0.6° Pitch:   0.1° Yaw: -72.5°
+[430389] POS -> X:  2.97m Y:  1.08m Z:  0.62m Zf:  0.64m | ANG -> Roll:  -0.7° Pitch:   0.3° Yaw: -79.5°
+[430489] POS -> X:  2.97m Y:  1.07m Z:  0.62m Zf:  0.64m | ANG -> Roll:  -0.8° Pitch:   0.2° Yaw: -85.1°
+[430589] POS -> X:  2.98m Y:  1.07m Z:  0.63m Zf:  0.64m | ANG -> Roll:  -0.9° Pitch:   0.0° Yaw: -88.8°
+[430689] POS -> X:  3.00m Y:  1.07m Z:  0.63m Zf:  0.64m | ANG -> Roll:   0.1° Pitch:  -0.2° Yaw: -91.2°
+[430789] POS -> X:  3.02m Y:  1.08m Z:  0.63m Zf:  0.64m | ANG -> Roll:   0.7° Pitch:  -0.8° Yaw: -92.5°
+[430889] POS -> X:  3.04m Y:  1.08m Z:  0.63m Zf:  0.64m | ANG -> Roll:   1.7° Pitch:  -1.1° Yaw: -92.9°
+[430989] POS -> X:  3.05m Y:  1.09m Z:  0.63m Zf:  0.64m | ANG -> Roll:   1.5° Pitch:  -1.1° Yaw: -93.0°
+[431089] POS -> X:  3.06m Y:  1.09m Z:  0.63m Zf:  0.64m | ANG -> Roll:   1.4° Pitch:  -0.9° Yaw: -93.1°
+[431189] POS -> X:  3.07m Y:  1.10m Z:  0.63m Zf:  0.63m | ANG -> Roll:   1.4° Pitch:  -0.5° Yaw: -93.0°
+[431289] POS -> X:  3.08m Y:  1.10m Z:  0.63m Zf:  0.63m | ANG -> Roll:   1.3° Pitch:  -0.4° Yaw: -92.9°
+[431389] POS -> X:  3.08m Y:  1.12m Z:  0.63m Zf:  0.63m | ANG -> Roll:   0.7° Pitch:  -5.8° Yaw: -92.6°
+[431489] POS -> X:  3.09m Y:  1.12m Z:  0.64m Zf:  0.64m | ANG -> Roll:  -0.7° Pitch: -15.3° Yaw: -92.2°
+[431589] POS -> X:  3.09m Y:  1.09m Z:  0.65m Zf:  0.64m | ANG -> Roll:   0.6° Pitch: -13.2° Yaw: -92.1°
+[431689] POS -> X:  3.09m Y:  1.04m Z:  0.64m Zf:  0.64m | ANG -> Roll:   0.1° Pitch: -10.6° Yaw: -92.1°
+[431789] POS -> X:  3.09m Y:  0.99m Z:  0.62m Zf:  0.63m | ANG -> Roll:   0.3° Pitch:  -5.7° Yaw: -91.8°
+[431889] POS -> X:  3.10m Y:  0.92m Z:  0.60m Zf:  0.63m | ANG -> Roll:  -0.6° Pitch:  -2.5° Yaw: -90.8°
+[431989] POS -> X:  3.10m Y:  0.85m Z:  0.60m Zf:  0.63m | ANG -> Roll:  -0.9° Pitch:  -0.2° Yaw: -89.5°
+[432089] POS -> X:  3.10m Y:  0.79m Z:  0.60m Zf:  0.63m | ANG -> Roll:  -1.2° Pitch:   0.8° Yaw: -88.6°
+[432189] POS -> X:  3.11m Y:  0.73m Z:  0.61m Zf:  0.62m | ANG -> Roll:  -0.7° Pitch:   0.6° Yaw: -88.6°
+[432289] POS -> X:  3.12m Y:  0.67m Z:  0.62m Zf:  0.62m | ANG -> Roll:  -0.0° Pitch:  -0.1° Yaw: -88.9°
+[432389] POS -> X:  3.13m Y:  0.62m Z:  0.63m Zf:  0.62m | ANG -> Roll:   0.7° Pitch:  -1.0° Yaw: -89.3°
+[432489] POS -> X:  3.14m Y:  0.56m Z:  0.64m Zf:  0.63m | ANG -> Roll:   0.9° Pitch:  -1.5° Yaw: -89.6°
+[432589] POS -> X:  3.15m Y:  0.51m Z:  0.65m Zf:  0.63m | ANG -> Roll:   1.1° Pitch:  -1.9° Yaw: -89.9°
+[432689] POS -> X:  3.16m Y:  0.45m Z:  0.65m Zf:  0.63m | ANG -> Roll:   1.3° Pitch:  -1.9° Yaw: -90.0°
+[432789] POS -> X:  3.16m Y:  0.39m Z:  0.66m Zf:  0.63m | ANG -> Roll:   0.9° Pitch:  -1.5° Yaw: -90.0°
+[432889] POS -> X:  3.16m Y:  0.33m Z:  0.66m Zf:  0.64m | ANG -> Roll:   0.3° Pitch:  -1.3° Yaw: -90.0°
+[432989] POS -> X:  3.17m Y:  0.26m Z:  0.65m Zf:  0.64m | ANG -> Roll:  -0.0° Pitch:  -1.0° Yaw: -90.0°
+[433089] POS -> X:  3.17m Y:  0.20m Z:  0.65m Zf:  0.64m | ANG -> Roll:   0.3° Pitch:  -0.6° Yaw: -90.0°
+[433189] POS -> X:  3.18m Y:  0.14m Z:  0.65m Zf:  0.64m | ANG -> Roll:   1.4° Pitch:  -0.0° Yaw: -89.7°
+[433289] POS -> X:  3.18m Y:  0.09m Z:  0.65m Zf:  0.64m | ANG -> Roll:   0.5° Pitch:  -0.5° Yaw: -89.2°
+[433389] POS -> X:  3.18m Y:  0.04m Z:  0.65m Zf:  0.64m | ANG -> Roll:   0.1° Pitch:  -1.4° Yaw: -88.8°
+[433489] POS -> X:  3.19m Y: -0.02m Z:  0.65m Zf:  0.64m | ANG -> Roll:  -0.3° Pitch:  -1.8° Yaw: -88.9°
+[433589] POS -> X:  3.19m Y: -0.08m Z:  0.66m Zf:  0.64m | ANG -> Roll:  -0.3° Pitch:  -2.4° Yaw: -89.0°
+[433689] POS -> X:  3.19m Y: -0.14m Z:  0.66m Zf:  0.65m | ANG -> Roll:  -0.5° Pitch:  -1.9° Yaw: -88.8°
+[433789] POS -> X:  3.19m Y: -0.20m Z:  0.66m Zf:  0.65m | ANG -> Roll:   0.3° Pitch:   8.5° Yaw: -88.7°
+[433889] POS -> X:  3.20m Y: -0.26m Z:  0.67m Zf:  0.65m | ANG -> Roll:   1.3° Pitch:  13.8° Yaw: -88.4°
+[433989] POS -> X:  3.19m Y: -0.29m Z:  0.66m Zf:  0.65m | ANG -> Roll:  -0.6° Pitch:  11.0° Yaw: -88.0°
+[434089] POS -> X:  3.20m Y: -0.29m Z:  0.65m Zf:  0.65m | ANG -> Roll:  -0.2° Pitch:   7.7° Yaw: -87.3°
+[434189] POS -> X:  3.21m Y: -0.28m Z:  0.64m Zf:  0.65m | ANG -> Roll:  -0.8° Pitch:   3.0° Yaw: -86.7°
+[434289] POS -> X:  3.22m Y: -0.27m Z:  0.63m Zf:  0.65m | ANG -> Roll:  -0.0° Pitch:  -0.1° Yaw: -86.2°
+[434389] POS -> X:  3.23m Y: -0.26m Z:  0.63m Zf:  0.65m | ANG -> Roll:   0.4° Pitch:  -2.1° Yaw: -86.0°
+[434489] POS -> X:  3.24m Y: -0.26m Z:  0.64m Zf:  0.65m | ANG -> Roll:   0.7° Pitch:  -2.3° Yaw: -85.9°
+[434589] POS -> X:  3.25m Y: -0.27m Z:  0.64m Zf:  0.65m | ANG -> Roll:   0.9° Pitch:  -1.3° Yaw: -85.8°
+[434689] POS -> X:  3.25m Y: -0.29m Z:  0.65m Zf:  0.65m | ANG -> Roll:   0.8° Pitch:  -0.0° Yaw: -85.9°
+[434789] POS -> X:  3.25m Y: -0.31m Z:  0.65m Zf:  0.65m | ANG -> Roll:   0.7° Pitch:   0.9° Yaw: -86.7°
+[434889] POS -> X:  3.25m Y: -0.33m Z:  0.65m Zf:  0.65m | ANG -> Roll:   0.4° Pitch:   1.4° Yaw: -89.5°
+[434989] POS -> X:  3.26m Y: -0.35m Z:  0.66m Zf:  0.65m | ANG -> Roll:   0.5° Pitch:   1.8° Yaw: -93.9°
+[435089] POS -> X:  3.25m Y: -0.37m Z:  0.66m Zf:  0.65m | ANG -> Roll:   0.4° Pitch:   1.7° Yaw: -99.2°
+[435189] POS -> X:  3.25m Y: -0.39m Z:  0.66m Zf:  0.65m | ANG -> Roll:   0.4° Pitch:   1.7° Yaw:-105.5°
+[435289] POS -> X:  3.29m Y: -0.41m Z:  0.66m Zf:  0.65m | ANG -> Roll:   0.6° Pitch:   1.5° Yaw:-112.5°
+[435389] POS -> X:  3.30m Y: -0.42m Z:  0.66m Zf:  0.65m | ANG -> Roll:   2.0° Pitch:   0.4° Yaw:-119.5°
+[435489] POS -> X:  3.31m Y: -0.43m Z:  0.66m Zf:  0.65m | ANG -> Roll:   2.5° Pitch:  -0.4° Yaw:-126.4°
+[435589] POS -> X:  3.29m Y: -0.41m Z:  0.66m Zf:  0.65m | ANG -> Roll:   2.4° Pitch:  -0.6° Yaw:-133.4°
+[435689] POS -> X:  3.29m Y: -0.41m Z:  0.66m Zf:  0.65m | ANG -> Roll:   2.3° Pitch:   0.7° Yaw:-140.2°
+[435789] POS -> X:  3.29m Y: -0.41m Z:  0.66m Zf:  0.66m | ANG -> Roll:   0.2° Pitch:   0.8° Yaw:-146.6°
+[435889] POS -> X:  3.29m Y: -0.40m Z:  0.66m Zf:  0.66m | ANG -> Roll:  -0.4° Pitch:   0.9° Yaw:-153.5°
+[435989] POS -> X:  3.27m Y: -0.38m Z:  0.67m Zf:  0.66m | ANG -> Roll:  -0.5° Pitch:   1.9° Yaw:-160.5°
+[436089] POS -> X:  3.28m Y: -0.37m Z:  0.68m Zf:  0.66m | ANG -> Roll:  -1.5° Pitch:   1.5° Yaw:-166.1°
+[436189] POS -> X:  3.31m Y: -0.37m Z:  0.68m Zf:  0.66m | ANG -> Roll:  -2.0° Pitch:   0.1° Yaw:-170.6°
+[436289] POS -> X:  3.33m Y: -0.37m Z:  0.68m Zf:  0.66m | ANG -> Roll:  -2.7° Pitch:  -1.7° Yaw:-174.3°
+[436389] POS -> X:  3.34m Y: -0.39m Z:  0.68m Zf:  0.66m | ANG -> Roll:  -1.2° Pitch:  -2.4° Yaw:-177.2°
+[436489] POS -> X:  3.36m Y: -0.40m Z:  0.67m Zf:  0.67m | ANG -> Roll:  -0.2° Pitch:  -2.4° Yaw:-179.4°
+[436589] POS -> X:  3.37m Y: -0.42m Z:  0.67m Zf:  0.67m | ANG -> Roll:   0.3° Pitch:  -2.2° Yaw: 178.4°
+[436689] POS -> X:  3.38m Y: -0.44m Z:  0.67m Zf:  0.67m | ANG -> Roll:   1.1° Pitch:  -1.6° Yaw: 176.2°
+[436789] POS -> X:  3.38m Y: -0.46m Z:  0.66m Zf:  0.67m | ANG -> Roll:   1.3° Pitch:  -1.2° Yaw: 173.8°
+[436889] POS -> X:  3.38m Y: -0.47m Z:  0.65m Zf:  0.66m | ANG -> Roll:   1.8° Pitch:   0.1° Yaw: 172.0°
+[436989] POS -> X:  3.39m Y: -0.48m Z:  0.65m Zf:  0.66m | ANG -> Roll:   1.5° Pitch:   1.2° Yaw: 170.8°
+[437089] POS -> X:  3.41m Y: -0.49m Z:  0.65m Zf:  0.66m | ANG -> Roll:   0.6° Pitch:   0.7° Yaw: 170.2°
+[437189] POS -> X:  3.43m Y: -0.49m Z:  0.65m Zf:  0.66m | ANG -> Roll:  -1.0° Pitch:  -0.2° Yaw: 170.1°
+[437289] POS -> X:  3.45m Y: -0.51m Z:  0.65m Zf:  0.66m | ANG -> Roll:  -0.4° Pitch:  -2.2° Yaw: 171.7°
+[437389] POS -> X:  3.47m Y: -0.52m Z:  0.65m Zf:  0.66m | ANG -> Roll:   0.4° Pitch:  -2.4° Yaw: 173.8°
+[437489] POS -> X:  3.49m Y: -0.53m Z:  0.64m Zf:  0.66m | ANG -> Roll:   0.4° Pitch:  -2.1° Yaw: 175.6°
+[437589] POS -> X:  3.50m Y: -0.55m Z:  0.63m Zf:  0.65m | ANG -> Roll:   0.7° Pitch:  -1.2° Yaw: 177.1°
+[437689] POS -> X:  3.51m Y: -0.57m Z:  0.62m Zf:  0.65m | ANG -> Roll:   1.5° Pitch:  -1.3° Yaw: 178.9°
+[437789] POS -> X:  3.52m Y: -0.58m Z:  0.60m Zf:  0.64m | ANG -> Roll:   2.8° Pitch:  -1.6° Yaw:-179.2°
+[437889] POS -> X:  3.52m Y: -0.59m Z:  0.59m Zf:  0.64m | ANG -> Roll:   2.3° Pitch:  -0.5° Yaw:-177.5°
+[437989] POS -> X:  3.53m Y: -0.58m Z:  0.57m Zf:  0.63m | ANG -> Roll:   1.9° Pitch:  -0.5° Yaw:-176.2°
+[438089] POS -> X:  3.54m Y: -0.58m Z:  0.55m Zf:  0.62m | ANG -> Roll:   0.3° Pitch:  -1.4° Yaw:-175.4°
+[438189] POS -> X:  3.54m Y: -0.58m Z:  0.53m Zf:  0.62m | ANG -> Roll:  -0.0° Pitch:  -0.7° Yaw:-175.5°
+[438289] POS -> X:  3.55m Y: -0.58m Z:  0.51m Zf:  0.61m | ANG -> Roll:  -1.0° Pitch:  -0.3° Yaw:-176.4°
+[438389] POS -> X:  3.56m Y: -0.59m Z:  0.49m Zf:  0.59m | ANG -> Roll:  -1.3° Pitch:  -0.1° Yaw:-177.9°
+[438489] POS -> X:  3.58m Y: -0.58m Z:  0.46m Zf:  0.58m | ANG -> Roll:  -0.3° Pitch:   0.4° Yaw:-179.3°
+[438589] POS -> X:  3.59m Y: -0.60m Z:  0.44m Zf:  0.57m | ANG -> Roll:   1.1° Pitch:  -2.4° Yaw: 179.9°
+[438689] POS -> X:  3.60m Y: -0.61m Z:  0.41m Zf:  0.55m | ANG -> Roll:   0.1° Pitch:  -1.4° Yaw: 178.9°
+[438789] POS -> X:  3.59m Y: -0.62m Z:  0.37m Zf:  0.53m | ANG -> Roll:   2.0° Pitch:   0.2° Yaw: 178.9°
+[438889] POS -> X:  3.59m Y: -0.63m Z:  0.35m Zf:  0.51m | ANG -> Roll:   2.5° Pitch:  -1.2° Yaw: 179.8°
+[438989] POS -> X:  3.59m Y: -0.63m Z:  0.32m Zf:  0.49m | ANG -> Roll:   1.4° Pitch:  -1.5° Yaw: 179.1°
+[439089] POS -> X:  3.59m Y: -0.62m Z:  0.30m Zf:  0.48m | ANG -> Roll:   0.0° Pitch:   0.1° Yaw: 177.9°
+[439189] POS -> X:  3.59m Y: -0.62m Z:  0.27m Zf:  0.46m | ANG -> Roll:   0.5° Pitch:   1.0° Yaw: 177.0°
+[439289] POS -> X:  3.59m Y: -0.62m Z:  0.25m Zf:  0.43m | ANG -> Roll:  -1.8° Pitch:   1.4° Yaw: 175.0°
+[439389] POS -> X:  3.59m Y: -0.61m Z:  0.23m Zf:  0.41m | ANG -> Roll:  -0.9° Pitch:   0.7° Yaw: 173.3°
+[439489] POS -> X:  3.59m Y: -0.62m Z:  0.22m Zf:  0.40m | ANG -> Roll:  -0.1° Pitch:   0.3° Yaw: 172.6°
+[439589] POS -> X:  3.60m Y: -0.62m Z:  0.21m Zf:  0.38m | ANG -> Roll:  -1.2° Pitch:  -2.1° Yaw: 172.1°
+[439689] POS -> X:  3.60m Y: -0.63m Z:  0.21m Zf:  0.36m | ANG -> Roll:   0.9° Pitch:  -0.2° Yaw: 172.5°
+[439789] POS -> X:  3.60m Y: -0.64m Z:  0.21m Zf:  0.35m | ANG -> Roll:   0.8° Pitch:   0.4° Yaw: 172.7°
+[439889] POS -> X:  3.60m Y: -0.64m Z:  0.21m Zf:  0.33m | ANG -> Roll:   0.8° Pitch:   0.1° Yaw: 173.1°
+[439989] POS -> X:  3.60m Y: -0.65m Z:  0.21m Zf:  0.32m | ANG -> Roll:   1.7° Pitch:  -3.8° Yaw: 173.8°
+[440089] POS -> X:  3.60m Y: -0.65m Z:  0.22m Zf:  0.31m | ANG -> Roll:   1.2° Pitch: -13.5° Yaw: 174.6°
+[440189] POS -> X:  3.57m Y: -0.64m Z:  0.22m Zf:  0.30m | ANG -> Roll:   1.1° Pitch: -13.9° Yaw: 175.4°
+[440289] POS -> X:  3.53m Y: -0.64m Z:  0.22m Zf:  0.29m | ANG -> Roll:  -0.9° Pitch: -10.4° Yaw: 176.6°
+[440389] POS -> X:  3.47m Y: -0.63m Z:  0.22m Zf:  0.28m | ANG -> Roll:  -1.2° Pitch:  -5.5° Yaw: 177.5°
+[440489] POS -> X:  3.39m Y: -0.63m Z:  0.22m Zf:  0.28m | ANG -> Roll:  -1.2° Pitch:  -3.3° Yaw: 178.2°
+[440589] POS -> X:  3.32m Y: -0.63m Z:  0.22m Zf:  0.27m | ANG -> Roll:  -0.7° Pitch:   0.1° Yaw: 178.0°
+[440689] POS -> X:  3.24m Y: -0.64m Z:  0.22m Zf:  0.27m | ANG -> Roll:  -0.0° Pitch:   0.3° Yaw: 177.3°
+[440789] POS -> X:  3.18m Y: -0.63m Z:  0.23m Zf:  0.26m | ANG -> Roll:  10.6° Pitch:   4.4° Yaw: 171.3°
+[440889] POS -> X:  3.12m Y: -0.61m Z:  0.23m Zf:  0.26m | ANG -> Roll:  13.1° Pitch:  -6.8° Yaw: 161.6°
+[440989] POS -> X:  3.09m Y: -0.55m Z:  0.21m Zf:  0.25m | ANG -> Roll: -10.1° Pitch: -12.9° Yaw: 161.3°
+[441089] POS -> X:  3.02m Y: -0.49m Z:  0.16m Zf:  0.25m | ANG -> Roll:  -7.4° Pitch:   0.8° Yaw: 165.2°
+[441189] POS -> X:  2.96m Y: -0.47m Z:  0.12m Zf:  0.23m | ANG -> Roll:  -2.4° Pitch:   1.5° Yaw: 167.4°
+[441289] POS -> X:  2.88m Y: -0.44m Z:  0.07m Zf:  0.22m | ANG -> Roll:  -3.4° Pitch:   1.8° Yaw: 171.1°
+[441389] POS -> X:  2.79m Y: -0.40m Z:  0.02m Zf:  0.20m | ANG -> Roll:  -0.4° Pitch:   1.4° Yaw: 175.9°
+[441489] POS -> X:  2.75m Y: -0.39m Z:  0.02m Zf:  0.18m | ANG -> Roll:  -3.5° Pitch:   4.1° Yaw: 179.7°
+[441589] POS -> X:  2.73m Y: -0.40m Z:  0.03m Zf:  0.16m | ANG -> Roll:  -2.4° Pitch:   0.5° Yaw:-178.8°
+[441689] POS -> X:  2.68m Y: -0.39m Z:  0.02m Zf:  0.15m | ANG -> Roll:   9.1° Pitch: -29.3° Yaw: 166.1°
+[441789] POS -> X:  2.47m Y: -0.46m Z: -0.11m Zf:  0.12m | ANG -> Roll: 172.4° Pitch: -84.4° Yaw:-100.1°
+[441889] POS -> X:  2.67m Y: -0.35m Z: -0.21m Zf:  0.09m | ANG -> Roll:-161.2° Pitch: -62.6° Yaw: -96.0°
+[441989] POS -> X:  3.49m Y:  0.20m Z: -0.34m Zf:  0.05m | ANG -> Roll: 139.3° Pitch:  13.1° Yaw: -85.3°
+[442089] POS -> X:  3.17m Y:  0.05m Z: -0.43m Zf: -0.00m | ANG -> Roll: 139.4° Pitch:  11.5° Yaw: -72.4°
+[442189] POS -> X:  2.96m Y: -0.06m Z: -0.52m Zf: -0.05m | ANG -> Roll: 154.2° Pitch:   5.4° Yaw: -75.6°
+[442289] POS -> X:  2.84m Y: -0.13m Z: -0.59m Zf: -0.11m | ANG -> Roll: 164.2° Pitch:   3.0° Yaw: -80.3°
+[442389] POS -> X:  2.80m Y: -0.16m Z: -0.67m Zf: -0.16m | ANG -> Roll: 169.0° Pitch:   1.0° Yaw: -82.8°
+[442489] POS -> X:  2.72m Y: -0.22m Z: -0.77m Zf: -0.22m | ANG -> Roll: 172.4° Pitch:   0.2° Yaw: -84.3°
+[442589] POS -> X:  2.66m Y: -0.27m Z: -0.91m Zf: -0.29m | ANG -> Roll: 174.1° Pitch:   0.2° Yaw: -85.1°
+[442689] POS -> X:  2.64m Y: -0.29m Z: -1.01m Zf: -0.36m | ANG -> Roll: 174.2° Pitch:   0.8° Yaw: -85.4°
+[442789] POS -> X:  2.64m Y: -0.30m Z: -1.09m Zf: -0.44m | ANG -> Roll: 173.9° Pitch:   1.7° Yaw: -85.6°
+[442889] POS -> X:  2.67m Y: -0.30m Z: -1.12m Zf: -0.51m | ANG -> Roll: 173.5° Pitch:   2.5° Yaw: -85.7°
+[442989] POS -> X:  2.85m Y: -0.24m Z: -0.96m Zf: -0.55m | ANG -> Roll: 171.4° Pitch:   3.2° Yaw: -85.5°
+
+*** ALTURA CONGELADA EN -0.57 m ***
+
+[443089] POS -> X:  3.13m Y: -0.15m Z: -0.74m Zf: -0.57m | ANG -> Roll: 168.3° Pitch:   4.1° Yaw: -84.9° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.21 m/s)
+[443189] POS -> X:  3.37m Y: -0.10m Z: -0.52m Zf: -0.57m | ANG -> Roll: 167.1° Pitch:   4.9° Yaw: -84.8° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.15 m/s)
+[443289] POS -> X:  3.37m Y: -0.11m Z: -0.34m Zf: -0.54m | ANG -> Roll: 169.4° Pitch:   5.2° Yaw: -85.5° [CONGELADA:-0.57]
+[443389] POS -> X:  3.16m Y: -0.18m Z: -0.11m Zf: -0.50m | ANG -> Roll: 173.6° Pitch:   5.2° Yaw: -86.7° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.34 m/s)
+[443489] POS -> X:  3.09m Y: -0.19m Z:  0.12m Zf: -0.44m | ANG -> Roll: 174.7° Pitch:   5.3° Yaw: -87.2° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.28 m/s)
+[443589] POS -> X:  3.07m Y: -0.18m Z:  0.32m Zf: -0.36m | ANG -> Roll: 174.8° Pitch:   5.8° Yaw: -87.4° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.02 m/s)
+[443689] POS -> X:  3.11m Y: -0.13m Z:  0.53m Zf: -0.27m | ANG -> Roll: 174.1° Pitch:   6.5° Yaw: -87.5° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.11 m/s)
+[443789] POS -> X:  3.17m Y: -0.08m Z:  0.74m Zf: -0.17m | ANG -> Roll: 173.4° Pitch:   7.3° Yaw: -87.5° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.13 m/s)
+[443889] POS -> X:  3.25m Y: -0.00m Z:  0.96m Zf: -0.06m | ANG -> Roll: 172.6° Pitch:   8.1° Yaw: -87.5° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.15 m/s)
+[443989] POS -> X:  3.34m Y:  0.08m Z:  1.17m Zf:  0.06m | ANG -> Roll: 171.9° Pitch:   8.8° Yaw: -87.5° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.13 m/s)
+[444089] POS -> X:  3.43m Y:  0.18m Z:  1.38m Zf:  0.20m | ANG -> Roll: 171.2° Pitch:   9.5° Yaw: -87.6° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.12 m/s)
+[444189] POS -> X:  3.55m Y:  0.30m Z:  1.59m Zf:  0.34m | ANG -> Roll: 170.4° Pitch:  10.3° Yaw: -87.5° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.11 m/s)
+[444289] POS -> X:  3.69m Y:  0.44m Z:  1.80m Zf:  0.48m | ANG -> Roll: 169.7° Pitch:  11.1° Yaw: -87.5° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.09 m/s)
+[444389] POS -> X:  3.84m Y:  0.59m Z:  2.01m Zf:  0.64m | ANG -> Roll: 168.9° Pitch:  11.8° Yaw: -87.5° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.06 m/s)
+[444489] POS -> X:  4.01m Y:  0.77m Z:  2.21m Zf:  0.79m | ANG -> Roll: 168.1° Pitch:  12.6° Yaw: -87.4° [CONGELADA:-0.57] <-- ANOMALIA Z (dz/dt=2.05 m/s)
+
+*** FIN CONGELAMIENTO ALTURA ***
+
+[444589] POS -> X:  4.20m Y:  0.97m Z:  2.41m Zf:  0.96m | ANG -> Roll: 167.4° Pitch:  13.3° Yaw: -87.4°
+[444689] POS -> X:  4.42m Y:  1.19m Z:  2.61m Zf:  1.12m | ANG -> Roll: 166.6° Pitch:  14.0° Yaw: -87.3°
+[444789] POS -> X:  4.65m Y:  1.43m Z:  2.80m Zf:  1.29m | ANG -> Roll: 165.9° Pitch:  14.8° Yaw: -87.2°
+[444889] POS -> X:  4.89m Y:  1.69m Z:  2.98m Zf:  1.46m | ANG -> Roll: 165.2° Pitch:  15.4° Yaw: -87.1°
+[444989] POS -> X:  5.16m Y:  1.97m Z:  3.16m Zf:  1.63m | ANG -> Roll: 164.4° Pitch:  16.1° Yaw: -87.1°
+[445089] POS -> X:  5.47m Y:  2.29m Z:  3.33m Zf:  1.80m | ANG -> Roll: 163.7° Pitch:  16.9° Yaw: -86.9°
+[445189] POS -> X:  5.76m Y:  2.60m Z:  3.51m Zf:  1.97m | ANG -> Roll: 163.1° Pitch:  17.5° Yaw: -86.9°
+[445289] POS -> X:  6.09m Y:  2.95m Z:  3.68m Zf:  2.14m | ANG -> Roll: 162.4° Pitch:  18.1° Yaw: -86.8°
+[445389] POS -> X:  6.44m Y:  3.31m Z:  3.85m Zf:  2.31m | ANG -> Roll: 161.7° Pitch:  18.7° Yaw: -86.7°
+[445489] POS -> X:  6.80m Y:  3.69m Z:  4.02m Zf:  2.48m | ANG -> Roll: 161.1° Pitch:  19.3° Yaw: -86.6°
+[445589] POS -> X:  7.19m Y:  4.10m Z:  4.17m Zf:  2.65m | ANG -> Roll: 160.4° Pitch:  20.0° Yaw: -86.5°
+[445689] POS -> X:  7.63m Y:  4.56m Z:  4.29m Zf:  2.81m | ANG -> Roll: 159.7° Pitch:  20.6° Yaw: -86.4°
+[445789] POS -> X:  8.07m Y:  5.02m Z:  4.43m Zf:  2.97m | ANG -> Roll: 159.1° Pitch:  21.2° Yaw: -86.2°
+[445889] POS -> X:  8.50m Y:  5.47m Z:  4.59m Zf:  3.14m | ANG -> Roll: 158.5° Pitch:  21.7° Yaw: -86.2°
+[445989] POS -> X:  9.04m Y:  6.04m Z:  4.64m Zf:  3.29m | ANG -> Roll: 157.8° Pitch:  22.4° Yaw: -86.0°
+[446089] POS -> X:  9.52m Y:  6.54m Z:  4.79m Zf:  3.44m | ANG -> Roll: 157.2° Pitch:  22.9° Yaw: -85.9°
+[446189] POS -> X: 10.03m Y:  7.08m Z:  4.91m Zf:  3.58m | ANG -> Roll: 156.7° Pitch:  23.4° Yaw: -85.8°
+[446289] POS -> X: 10.57m Y:  7.64m Z:  5.03m Zf:  3.73m | ANG -> Roll: 156.1° Pitch:  23.9° Yaw: -85.7°
+[446389] POS -> X: 11.10m Y:  8.20m Z:  5.16m Zf:  3.87m | ANG -> Roll: 155.6° Pitch:  24.4° Yaw: -85.6°
+[446489] POS -> X: 11.65m Y:  8.77m Z:  5.29m Zf:  4.01m | ANG -> Roll: 155.1° Pitch:  24.9° Yaw: -85.5°
+[446589] POS -> X: 12.33m Y:  9.48m Z:  5.27m Zf:  4.14m | ANG -> Roll: 154.3° Pitch:  25.5° Yaw: -85.2°
+[446689] POS -> X: 12.91m Y: 10.08m Z:  5.41m Zf:  4.27m | ANG -> Roll: 153.9° Pitch:  25.9° Yaw: -85.2°
+[446789] POS -> X: 13.47m Y: 10.69m Z:  5.55m Zf:  4.39m | ANG -> Roll: 153.5° Pitch:  26.3° Yaw: -85.1°
+[446889] POS -> X: 14.12m Y: 11.36m Z:  5.63m Zf:  4.52m | ANG -> Roll: 153.0° Pitch:  26.7° Yaw: -85.0°
+[446989] POS -> X: 14.77m Y: 12.04m Z:  5.71m Zf:  4.64m | ANG -> Roll: 152.6° Pitch:  27.2° Yaw: -84.9°
+[447089] POS -> X: 15.35m Y: 12.66m Z:  5.88m Zf:  4.76m | ANG -> Roll: 152.2° Pitch:  27.5° Yaw: -84.8°
+[447189] POS -> X: 16.14m Y: 13.49m Z:  5.81m Zf:  4.87m | ANG -> Roll: 151.6° Pitch:  28.0° Yaw: -84.6°
+[447289] POS -> X: 16.82m Y: 14.20m Z:  5.89m Zf:  4.97m | ANG -> Roll: 151.2° Pitch:  28.4° Yaw: -84.5°
+
+*** ALTURA CONGELADA EN 5.09 m ***
+
+[447389] POS -> X: 17.35m Y: 14.76m Z:  6.16m Zf:  5.09m | ANG -> Roll: 151.0° Pitch:  28.5° Yaw: -84.6° [CONGELADA:5.09] <-- ANOMALIA Z (dz/dt=2.71 m/s)
+[447489] POS -> X: 18.05m Y: 15.50m Z:  6.23m Zf:  5.20m | ANG -> Roll: 150.7° Pitch:  28.9° Yaw: -84.5° [CONGELADA:5.09]
+[447589] POS -> X: 18.74m Y: 16.23m Z:  6.32m Zf:  5.31m | ANG -> Roll: 150.3° Pitch:  29.2° Yaw: -84.4° [CONGELADA:5.09]
+[447689] POS -> X:  0.00m Y: -0.00m Z:  0.54m Zf:  4.84m | ANG -> Roll:   0.0° Pitch:   0.0° Yaw:   0.0° [CONGELADA:5.09] <-- ANOMALIA Z (dz/dt=-57.74 m/s)
+[447789] POS -> X:  0.00m Y: -0.00m Z:  0.45m Zf:  4.40m | ANG -> Roll:  -0.0° Pitch:   0.0° Yaw:   0.1° [CONGELADA:5.09]
+[447889] POS -> X:  0.01m Y: -0.00m Z:  0.29m Zf:  3.99m | ANG -> Roll:  -0.0° Pitch:   0.4° Yaw:   0.2° [CONGELADA:5.09]
+[447989] POS -> X:  0.01m Y: -0.00m Z:  0.18m Zf:  3.61m | ANG -> Roll:  -0.1° Pitch:   0.9° Yaw:   0.3° [CONGELADA:5.09]
+[448089] POS -> X:  0.02m Y: -0.00m Z:  0.24m Zf:  3.27m | ANG -> Roll:  -0.0° Pitch:   1.2° Yaw:   0.4° [CONGELADA:5.09]
+[448189] POS -> X:  0.04m Y: -0.00m Z:  0.17m Zf:  2.96m | ANG -> Roll:  -0.1° Pitch:   1.7° Yaw:   0.5° [CONGELADA:5.09]
+[448289] POS -> X:  0.04m Y: -0.00m Z:  0.32m Zf:  2.70m | ANG -> Roll:  -0.1° Pitch:   1.9° Yaw:   0.6° [CONGELADA:5.09]
+[448389] POS -> X:  0.05m Y: -0.00m Z:  0.26m Zf:  2.45m | ANG -> Roll:  -0.1° Pitch:   2.0° Yaw:   0.7° [CONGELADA:5.09]
+[448489] POS -> X:  0.05m Y: -0.00m Z:  0.22m Zf:  2.23m | ANG -> Roll:  -0.1° Pitch:   2.0° Yaw:   0.8° [CONGELADA:5.09]
+[448589] POS -> X:  0.05m Y:  0.00m Z:  0.30m Zf:  2.04m | ANG -> Roll:  -0.1° Pitch:   2.1° Yaw:   0.9° [CONGELADA:5.09]
+[448689] POS -> X:  0.04m Y:  0.00m Z:  0.25m Zf:  1.86m | ANG -> Roll:  -0.1° Pitch:   2.1° Yaw:   1.0° [CONGELADA:5.09]
+[448789] POS -> X:  0.04m Y:  0.00m Z:  0.31m Zf:  1.70m | ANG -> Roll:  -0.1° Pitch:   2.2° Yaw:   1.1° [CONGELADA:5.09]
+[448889] POS -> X:  0.03m Y:  0.00m Z:  0.26m Zf:  1.56m | ANG -> Roll:  -0.1° Pitch:   2.3° Yaw:   1.1° [CONGELADA:5.09]
+
+*** FIN CONGELAMIENTO ALTURA ***
+
+[448989] POS -> X:  0.03m Y:  0.00m Z:  0.19m Zf:  1.42m | ANG -> Roll:  -0.1° Pitch:   2.2° Yaw:   1.2°
+[449089] POS -> X:  0.01m Y:  0.01m Z:  0.30m Zf:  1.31m | ANG -> Roll:  -0.1° Pitch:   2.3° Yaw:   1.3°
+
+*** ALTURA CONGELADA EN 1.18 m ***
+
+[449189] POS -> X:  0.01m Y:  0.01m Z: -0.03m Zf:  1.18m | ANG -> Roll:  -0.1° Pitch:   1.9° Yaw:   1.4° [CONGELADA:1.18] <-- ANOMALIA Z (dz/dt=-3.27 m/s)
+[449289] POS -> X:  0.01m Y:  0.01m Z: -0.30m Zf:  1.03m | ANG -> Roll:  -1.0° Pitch:   1.2° Yaw:   4.2° [CONGELADA:1.18] <-- ANOMALIA Z (dz/dt=-2.74 m/s)
+[449389] POS -> X:  0.00m Y:  0.02m Z: -0.26m Zf:  0.90m | ANG -> Roll:  -1.2° Pitch:   2.9° Yaw:  15.4° [CONGELADA:1.18]
+[449489] POS -> X: -0.05m Y:  0.07m Z: -0.14m Zf:  0.80m | ANG -> Roll:  -7.3° Pitch: -11.3° Yaw:  23.1° [CONGELADA:1.18]
+[449589] POS -> X: -0.09m Y:  0.28m Z: -0.07m Zf:  0.71m | ANG -> Roll: -24.4° Pitch: -24.3° Yaw:  34.9° [CONGELADA:1.18]
+[449689] POS -> X:  0.21m Y:  0.82m Z:  0.08m Zf:  0.65m | ANG -> Roll: -37.8° Pitch: -34.8° Yaw:  21.8° [CONGELADA:1.18]
+[449789] POS -> X:  0.67m Y:  1.45m Z:  0.06m Zf:  0.59m | ANG -> Roll: -44.6° Pitch: -30.3° Yaw:   5.0° [CONGELADA:1.18]
+[449889] POS -> X:  1.58m Y:  2.03m Z:  0.14m Zf:  0.54m | ANG -> Roll: -35.4° Pitch: -30.3° Yaw:  -4.9° [CONGELADA:1.18]
+[449989] POS -> X:  2.42m Y:  2.76m Z:  0.15m Zf:  0.50m | ANG -> Roll: -20.3° Pitch: -45.1° Yaw: -13.0° [CONGELADA:1.18]
+[450089] POS -> X:  1.22m Y:  5.73m Z:  0.62m Zf:  0.52m | ANG -> Roll:  24.3° Pitch: -25.4° Yaw:  60.9° [CONGELADA:1.18] <-- ANOMALIA Z (dz/dt=4.74 m/s)
+[450189] POS -> X: -1.11m Y:  8.00m Z:  1.67m Zf:  0.63m | ANG -> Roll:  52.0° Pitch:  -2.1° Yaw:  99.7° [CONGELADA:1.18] <-- ANOMALIA Z (dz/dt=10.45 m/s)
+[450289] POS -> X: -1.30m Y:  8.27m Z:  1.71m Zf:  0.74m | ANG -> Roll:  56.3° Pitch: -11.3° Yaw:  90.3° [CONGELADA:1.18]
+[450389] POS -> X: -1.92m Y:  8.90m Z:  1.91m Zf:  0.86m | ANG -> Roll:  45.4° Pitch:  -5.7° Yaw: 105.2° [CONGELADA:1.18]
+[450489] POS -> X: -2.37m Y:  9.70m Z:  2.13m Zf:  0.98m | ANG -> Roll:  41.3° Pitch:  -0.8° Yaw: 100.1° [CONGELADA:1.18] <-- ANOMALIA Z (dz/dt=2.29 m/s)
+[450589] POS -> X:  0.00m Y:  0.00m Z:  0.42m Zf:  0.93m | ANG -> Roll:  -1.1° Pitch:   0.7° Yaw:  -1.3° [CONGELADA:1.18] <-- ANOMALIA Z (dz/dt=-17.18 m/s)
+[450689] POS -> X:  0.10m Y:  0.02m Z:  0.63m Zf:  0.90m | ANG -> Roll:   8.1° Pitch:  18.6° Yaw: -14.9° [CONGELADA:1.18] <-- ANOMALIA Z (dz/dt=2.19 m/s)
+
+*** FIN CONGELAMIENTO ALTURA ***
+
+[450789] POS -> X:  0.18m Y:  0.01m Z:  0.74m Zf:  0.88m | ANG -> Roll:  45.9° Pitch:  28.5° Yaw: -37.1°
+[450889] POS -> X:  0.31m Y:  0.03m Z:  0.67m Zf:  0.86m | ANG -> Roll:  29.7° Pitch:  26.6° Yaw: -25.1°
+[450989] POS -> X:  0.44m Y:  0.08m Z:  0.72m Zf:  0.85m | ANG -> Roll:  23.0° Pitch:  43.2° Yaw: -11.6°
+[451089] POS -> X:  0.63m Y:  0.14m Z:  0.56m Zf:  0.82m | ANG -> Roll:  20.6° Pitch:  51.0° Yaw:  -8.0°
+
+*** ALTURA CONGELADA EN 0.82 m ***
+
+[451189] POS -> X:  0.74m Y: -0.25m Z:  0.80m Zf:  0.82m | ANG -> Roll:  33.0° Pitch:  63.7° Yaw: -40.8° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=2.38 m/s)
+[451289] POS -> X:  1.67m Y: -0.18m Z:  1.28m Zf:  0.86m | ANG -> Roll:   1.6° Pitch:  56.2° Yaw: -40.4° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=4.77 m/s)
+[451389] POS -> X:  1.94m Y: -0.78m Z:  1.45m Zf:  0.92m | ANG -> Roll:  30.7° Pitch:  42.7° Yaw: -57.2° [CONGELADA:0.82]
+[451489] POS -> X:  2.28m Y: -0.95m Z:  1.58m Zf:  0.99m | ANG -> Roll:  36.4° Pitch:  36.0° Yaw: -62.5° [CONGELADA:0.82]
+[451589] POS -> X:  3.12m Y: -1.95m Z:  1.51m Zf:  1.04m | ANG -> Roll:  38.1° Pitch:  20.3° Yaw: -74.5° [CONGELADA:0.82]
+[451689] POS -> X:  3.59m Y: -2.24m Z:  1.53m Zf:  1.09m | ANG -> Roll:  40.5° Pitch:  19.8° Yaw: -79.5° [CONGELADA:0.82]
+[451789] POS -> X:  4.02m Y: -2.62m Z:  1.53m Zf:  1.13m | ANG -> Roll:  44.3° Pitch:  18.5° Yaw: -84.5° [CONGELADA:0.82]
+[451889] POS -> X:  4.64m Y: -3.08m Z:  1.41m Zf:  1.16m | ANG -> Roll:  47.0° Pitch:  19.4° Yaw: -92.0° [CONGELADA:0.82]
+[451989] POS -> X:  5.93m Y: -3.23m Z:  1.15m Zf:  1.16m | ANG -> Roll:  56.4° Pitch:  33.4° Yaw: -96.0° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=-2.59 m/s)
+[452089] POS -> X:  0.03m Y:  0.02m Z:  2.07m Zf:  1.25m | ANG -> Roll:  -3.6° Pitch:  -1.8° Yaw: -14.1° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=9.17 m/s)
+[452189] POS -> X:  0.09m Y:  0.08m Z:  1.76m Zf:  1.30m | ANG -> Roll:   2.9° Pitch:   1.9° Yaw: -25.7° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=-3.14 m/s)
+[452289] POS -> X:  0.12m Y:  0.15m Z:  1.19m Zf:  1.29m | ANG -> Roll:   0.0° Pitch:   2.0° Yaw: -27.7° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=-5.69 m/s)
+[452389] POS -> X:  0.40m Y:  0.58m Z:  0.98m Zf:  1.26m | ANG -> Roll:  36.4° Pitch:   4.6° Yaw: -39.7° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=-2.10 m/s)
+[452489] POS -> X:  0.70m Y:  1.11m Z:  0.64m Zf:  1.20m | ANG -> Roll:  58.0° Pitch:  -4.5° Yaw: -53.9° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=-3.35 m/s)
+[452589] POS -> X:  1.08m Y:  2.29m Z:  0.44m Zf:  1.12m | ANG -> Roll:  80.1° Pitch: -26.3° Yaw: -47.7° [CONGELADA:0.82]
+
+*** FIN CONGELAMIENTO ALTURA ***
+
+[452689] POS -> X:  1.42m Y:  3.02m Z:  0.06m Zf:  1.02m | ANG -> Roll:  84.7° Pitch: -28.6° Yaw: -44.3° <-- ANOMALIA Z (dz/dt=-3.81 m/s)
+[452789] POS -> X:  1.60m Y:  5.04m Z:  0.15m Zf:  0.93m | ANG -> Roll: 112.9° Pitch: -28.7° Yaw:  -4.8°
+[452889] POS -> X:  2.13m Y:  6.49m Z:  0.25m Zf:  0.86m | ANG -> Roll: 126.1° Pitch: -27.0° Yaw:  -0.9°
+
+*** ALTURA CONGELADA EN 0.82 m ***
+
+[452989] POS -> X:  2.69m Y:  7.77m Z:  0.48m Zf:  0.82m | ANG -> Roll: 137.5° Pitch: -20.3° Yaw:   1.1° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=2.22 m/s)
+[453089] POS -> X:  3.28m Y:  8.92m Z:  0.75m Zf:  0.81m | ANG -> Roll: 143.0° Pitch: -10.3° Yaw:   1.3° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=2.71 m/s)
+[453189] POS -> X:  3.96m Y:  9.98m Z:  1.08m Zf:  0.84m | ANG -> Roll: 151.0° Pitch:  -6.7° Yaw:  -2.2° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=3.30 m/s)
+[453289] POS -> X:  4.60m Y: 11.00m Z:  1.42m Zf:  0.90m | ANG -> Roll: 152.0° Pitch:  -1.2° Yaw:  -5.9° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=3.47 m/s)
+[453389] POS -> X: -0.00m Y:  0.00m Z:  1.11m Zf:  0.92m | ANG -> Roll:   2.2° Pitch:   0.7° Yaw:   0.3° [CONGELADA:0.82] <-- ANOMALIA Z (dz/dt=-3.18 m/s)
+[453489] POS -> X: -0.01m Y:  0.00m Z:  1.03m Zf:  0.93m | ANG -> Roll:   7.2° Pitch:  -0.2° Yaw:   3.5° [CONGELADA:0.82]
+[453589] POS -> X: -0.04m Y:  0.01m Z:  0.92m Zf:  0.93m | ANG -> Roll:   4.8° Pitch: -10.6° Yaw:   8.9° [CONGELADA:0.82]
+[453689] POS -> X: -0.09m Y:  0.04m Z:  0.95m Zf:  0.93m | ANG -> Roll:  29.0° Pitch: -11.2° Yaw:   4.5° [CONGELADA:0.82]
+[453789] POS -> X: -0.11m Y:  0.07m Z:  0.92m Zf:  0.93m | ANG -> Roll:  27.6° Pitch: -14.5° Yaw:   9.6° [CONGELADA:0.82]
+[453889] POS -> X: -0.10m Y:  0.09m Z:  0.93m Zf:  0.93m | ANG -> Roll:  21.0° Pitch: -20.5° Yaw:  10.9° [CONGELADA:0.82]
+[453989] POS -> X: -0.00m Y:  0.07m Z:  1.12m Zf:  0.95m | ANG -> Roll:  19.0° Pitch: -19.6° Yaw:  11.8° [CONGELADA:0.82]
+[454089] POS -> X:  0.10m Y:  0.06m Z:  1.09m Zf:  0.96m | ANG -> Roll:  25.2° Pitch: -12.2° Yaw:   8.4° [CONGELADA:0.82]
+[454189] POS -> X:  0.41m Y:  0.00m Z:  1.19m Zf:  0.99m | ANG -> Roll:  25.4° Pitch:  -6.1° Yaw:   2.1° [CONGELADA:0.82]
+[454289] POS -> X:  0.72m Y:  0.03m Z:  1.13m Zf:  1.00m | ANG -> Roll:  21.7° Pitch:  -1.4° Yaw:  -1.3° [CONGELADA:0.82]
+[454389] POS -> X:  1.12m Y:  0.02m Z:  1.09m Zf:  1.01m | ANG -> Roll:  24.7° Pitch:   4.7° Yaw:  -2.1° [CONGELADA:0.82]
+[454489] POS -> X:  1.69m Y: -0.02m Z:  1.17m Zf:  1.03m | ANG -> Roll:  23.6° Pitch:   7.5° Yaw:  -3.1° [CONGELADA:0.82]
+
+*** FIN CONGELAMIENTO ALTURA ***
+
+[454589] POS -> X:  2.27m Y: -0.08m Z:  1.11m Zf:  1.03m | ANG -> Roll:  23.9° Pitch:   9.0° Yaw:  -3.3°
+[454689] POS -> X:  2.81m Y: -0.09m Z:  1.05m Zf:  1.04m | ANG -> Roll:  23.1° Pitch:  12.7° Yaw:  -2.7°
+[454789] POS -> X:  3.73m Y: -0.21m Z:  1.13m Zf:  1.05m | ANG -> Roll:  23.2° Pitch:  16.6° Yaw:  -1.7°
+[454889] POS -> X:  4.58m Y: -0.31m Z:  1.07m Zf:  1.05m | ANG -> Roll:  23.2° Pitch:  19.4° Yaw:  -1.1°
+[454989] POS -> X:  5.92m Y: -0.49m Z:  1.15m Zf:  1.06m | ANG -> Roll:  23.4° Pitch:  24.4° Yaw:  -0.6°
+[455089] POS -> X:  7.14m Y: -0.56m Z:  1.09m Zf:  1.06m | ANG -> Roll:  23.1° Pitch:  28.4° Yaw:  -0.1°
+[455189] POS -> X:  8.57m Y: -0.65m Z:  1.00m Zf:  1.06m | ANG -> Roll:  23.3° Pitch:  32.0° Yaw:   0.2°
+
+[!!!] PARO DE EMERGENCIA ACTIVADO [!!!]
+Apagando motores inmediatamente...

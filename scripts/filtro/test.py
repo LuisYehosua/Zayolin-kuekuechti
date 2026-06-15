@@ -215,61 +215,64 @@ if __name__ == '__main__':
         with MotionCommander(scf) as mc:
             print('Taking off!')
             time.sleep(1)
-
+            
+            #Sube a la altura del cuadro
             print('Moving up 0.8m')
             mc.up(0.7)
             time.sleep(1)
-
+            
+            #Atravieza el cuadro
+            print('Cuadro')
             mc.forward(1.5, velocity=0.73)
             time.sleep(2.0) # Pequeña pausa de estabilidad
             
             # Sube
-            print('Cambio1')
+            print('Sube')
             mc.up(0.65)
             time.sleep(2.0)
             
             # Avanza
-            print('Cambio2')
+            print('avanza vara alta')
             mc.forward(1.6, velocity=0.73)
             time.sleep(2.0)
             
             # Baja
-            print('Cambio3')
+            print('baja')
             mc.down(1.0)
             time.sleep(1.0)
             
             # Gira
-            print('Cambio4')
+            print('gira derecha')
             mc.turn_right(90)
             time.sleep(1.0) # Corregido typo: yime a time
             
             # Avanza
-            print('Cambio5')
-            mc.forward(1.4)
+            print('avanza')
+            mc.forward(1.55, velocity=0.73)
             time.sleep(1.0)
             
             # Gira
-            print('Cambio6')
-            mc.turn_left(270)
+            print('gira para silla')
+            mc.turn_right(90)
             time.sleep(1.0)
             
             # Baja
-            print('Cambio7')
+            print('baja a silla')
             mc.down(0.40)
             time.sleep(1.0)
             
             # Avanza
-            print('Cambio8')
+            print('avanza silla')
             mc.forward(1.5, velocity=0.73)
             time.sleep(1.0)
             
             # Sube
-            print('Cambio9')
-            mc.up(0.2)
+            print('sube')
+            mc.up(0.3)
             time.sleep(1.0)
             
             # Avanza
-            print('Cambio10')
+            print('Avanza para aterrizar')
             mc.forward(1.2)
             time.sleep(1.0)
             

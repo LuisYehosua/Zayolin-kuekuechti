@@ -35,7 +35,6 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'prueba_avance = flie.prueba_avance:main',
             'gate_red = flie.gate_red:main',
         ],
     },

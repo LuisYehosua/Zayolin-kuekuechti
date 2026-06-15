@@ -1,0 +1,17 @@
+[1.470s] Invoking command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/build --no-deps symlink_data
+[1.922s] running develop
+[2.119s] running egg_info
+[2.119s] writing flie.egg-info/PKG-INFO
+[2.119s] writing dependency_links to flie.egg-info/dependency_links.txt
+[2.120s] writing entry points to flie.egg-info/entry_points.txt
+[2.120s] writing requirements to flie.egg-info/requires.txt
+[2.120s] writing top-level names to flie.egg-info/top_level.txt
+[2.121s] reading manifest file 'flie.egg-info/SOURCES.txt'
+[2.123s] writing manifest file 'flie.egg-info/SOURCES.txt'
+[2.124s] running build_ext
+[2.125s] Creating /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie.egg-link (link to .)
+[2.127s] Installing gate_red script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[2.127s] 
+[2.127s] Installed /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie
+[2.129s] running symlink_data
+[2.166s] Invoked command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie' returned '0': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/build --no-deps symlink_data
