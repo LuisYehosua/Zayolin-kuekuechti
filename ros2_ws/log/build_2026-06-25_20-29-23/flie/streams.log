@@ -1,0 +1,20 @@
+[1.120s] Invoking command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/build --no-deps symlink_data
+[1.377s] running develop
+[1.567s] running egg_info
+[1.567s] writing flie.egg-info/PKG-INFO
+[1.568s] writing dependency_links to flie.egg-info/dependency_links.txt
+[1.568s] writing entry points to flie.egg-info/entry_points.txt
+[1.572s] writing requirements to flie.egg-info/requires.txt
+[1.573s] writing top-level names to flie.egg-info/top_level.txt
+[1.574s] reading manifest file 'flie.egg-info/SOURCES.txt'
+[1.575s] writing manifest file 'flie.egg-info/SOURCES.txt'
+[1.577s] running build_ext
+[1.577s] Creating /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages/flie.egg-link (link to .)
+[1.578s] Installing Test1 script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.578s] Installing cf_brain_node script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.578s] Installing gate_red script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.578s] Installing prueba_avance script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/flie
+[1.579s] 
+[1.579s] Installed /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie
+[1.579s] running symlink_data
+[1.642s] Invoked command in '/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie' returned '0': PYTHONPATH=/home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yehosua/Zayolin-kuekuechti/ros2_ws/install/flie/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/flie/build --no-deps symlink_data

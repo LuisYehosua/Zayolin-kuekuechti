@@ -1,3 +1,6 @@
 [console_scripts]
+Test1 = flie.Test1:main
+cf_brain_node = flie.cf_brain_node:main
 gate_red = flie.gate_red:main
+prueba_avance = flie.prueba_avance:main
 

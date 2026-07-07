@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-
 import rclpy
 from rclpy.node import Node
+from std_msgs.msg import Bool
+from geometry_msgs.msg import Twist
 import logging
 import time
+import threading
 
 import cflib.crtp
 from cflib.crazyflie.syncCrazyflie import SyncCrazyflie
@@ -11,55 +13,75 @@ from cflib.positioning.motion_commander import MotionCommander
 
 URI = 'radio://0/80/2M'
 
-# Clase del Nodo de ROS 2
-class SimpleFlightNode(Node):
+class CFHardwareNode(Node):
     def __init__(self):
-        # Nombramos el nodo
-        super().__init__('cf_simple_flight_node')
-        self.get_logger().info("Nodo de vuelo iniciado. ¡Sistemas listos!")
+        super().__init__('cf_hardware_node')
+        self.takeoff_cmd = False
+        self.land_cmd = False
+        self.mc = None
+        
+        #Subscribers
+        self.create_subscription(Bool, 'hardware/start_takeoff', self.takeoff_cb, 10)
+        self.create_subscription(Twist, 'hardware/cmd_vel_cf', self.vel_cb, 10)
+        self.create_subscription(Bool, 'hardware/start_landing', self.land_cb, 10)
+        
+        # Publishers
+        self.takeoff_rdy_pub = self.create_publisher(Bool, 'hardware/takeoff_ready', 10)
+        self.get_logger().info("Hardware node start. Waiting conection...")
+
+    def takeoff_cb(self, msg: Bool):
+        if msg.data and not self.takeoff_cmd:
+            self.takeoff_cmd = True
+            self.get_logger().info("Received take off")
+
+    def vel_cb(self, msg: Twist):
+        if self.mc is not None and self.takeoff_cmd and not self.land_cmd:
+            self.mc.start_linear_motion(msg.linear.x, msg.linear.y, msg.linear.z, msg.angular.z)
+
+    def land_cb(self, msg: Bool):
+        if msg.data and not self.land_cmd:
+            self.land_cmd = True
+            self.get_logger().info("Received land")
+            self.get_logger().info("Landing")
 
 def main(args=None):
-    # 1. Inicializar ROS 2
     rclpy.init(args=args)
-    
-    # 2. Crear nuestro nodo
-    node = SimpleFlightNode()
+    node = CFHardwareNode()
+    spin_thread = threading.Thread(target=rclpy.spin, args=(node,), daemon=True)
+    spin_thread.start()
 
-    # 3. Inicializar los drivers del Crazyflie
     logging.basicConfig(level=logging.ERROR)
     cflib.crtp.init_drivers(enable_debug_driver=False)
 
-    node.get_logger().info(f"Conectando al Crazyflie en {URI}...")
-
     try:
-        # Iniciamos la conexión síncrona
         with SyncCrazyflie(URI) as scf:
-            node.get_logger().info("¡Conectado! Armando motores...")
+            node.get_logger().info("Conected. Waiting sign for /hardware/start_takeoff...")
             
-            # Arm the Crazyflie
-            scf.cf.platform.send_arming_request(True)
-            time.sleep(1.0)
+            # Wait takeoff
+            while not node.takeoff_cmd and rclpy.ok():
+                time.sleep(0.1)
 
-            # We take off when the commander is created
-            with MotionCommander(scf) as mc:
-                node.get_logger().info('¡Despegando!')
-                time.sleep(1.0)
-
-                node.get_logger().info('Avanzando 2.0 metros a 0.73 m/s...')
-                mc.forward(2.0, velocity=0.73)
-                time.sleep(1.0)
-
-                # We land when the MotionCommander goes out of scope
-                node.get_logger().info('Secuencia terminada. ¡Aterrizando!')
-
+            if rclpy.ok():
+                with MotionCommander(scf) as mc:
+                    node.get_logger().info('Taking off')
+                    node.mc = mc
+                    time.sleep(1.0)
+                    
+                    # Sent ready
+                    rdy_msg = Bool()
+                    rdy_msg.data = True
+                    node.takeoff_rdy_pub.publish(rdy_msg)
+                    
+                    # Flying
+                    while rclpy.ok() and not node.land_cmd:
+                        time.sleep(0.1)
     except Exception as e:
-        node.get_logger().error(f"Se produjo un error durante el vuelo: {e}")
-        
+        node.get_logger().error(f"Error: {e}")
     finally:
-        # 4. Limpieza: destruir el nodo y apagar ROS 2 correctamente
-        node.get_logger().info('Apagando nodo...')
+        node.mc = None
         node.destroy_node()
         rclpy.shutdown()
+        spin_thread.join()
 
 if __name__ == '__main__':
     main()

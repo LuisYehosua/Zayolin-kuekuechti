@@ -1,58 +1,54 @@
-import logging
+#!/usr/bin/env python3
+import rclpy
+from rclpy.node import Node
+from geometry_msgs.msg import Twist
+import math
 import time
 
-import cflib.crtp
-from cflib.crazyflie.syncCrazyflie import SyncCrazyflie
-from cflib.positioning.motion_commander import MotionCommander
+class CFTranslatorNode(Node):
+    def __init__(self):
+        super().__init__('cf_translator_node')
 
-URI = 'radio://0/80/2M'
+        # Time
+        self.current_twist = Twist()
+        self.last_msg_time = time.time()
+        
+        # Listen cmd_vel
+        self.create_subscription(Twist, 'cmd_vel', self.cmd_vel_cb, 10)
+        
+        # Publish cmd_vel for crazyflie
+        self.pub_hw_vel = self.create_publisher(Twist, 'hardware/cmd_vel_cf', 10)
 
-# Only output errors from the logging framework
-logging.basicConfig(level=logging.ERROR)
+        #Timer for publish
+        self.timer = self.create_timer(0.1, self.timer_cb)
 
+        self.get_logger().info("Twist translate node ready")
+
+    def cmd_vel_cb(self, msg: Twist):
+        self.current_twist = msg
+        self.last_msg_time = time.time()
+
+    def timer_cb(self):
+        hw_msg = Twist()
+        if (time.time() - self.last_msg_time) > 0.5:
+            hw_msg.linear.x = 0.0
+            hw_msg.linear.y = 0.0
+            hw_msg.linear.z = 0.0
+            hw_msg.angular.z = 0.0
+        else:
+            hw_msg.linear.x = self.current_twist.linear.x
+            hw_msg.linear.y = self.current_twist.linear.y
+            hw_msg.linear.z = self.current_twist.linear.z
+            hw_msg.angular.z = math.degrees(self.current_twist.angular.z)
+            
+        self.pub_hw_vel.publish(hw_msg)
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = CFTranslatorNode()
+    rclpy.spin(node)
+    node.destroy_node()
+    rclpy.shutdown()
 
 if __name__ == '__main__':
-    # Initialize the low-level drivers (don't list the debug drivers)
-    cflib.crtp.init_drivers(enable_debug_driver=False)
-
-    with SyncCrazyflie(URI) as scf:
-        # Arm the Crazyflie
-        scf.cf.platform.send_arming_request(True)
-        time.sleep(1.0)
-
-        # We take off when the commander is created
-        with MotionCommander(scf) as mc:
-            print('Taking off!')
-            time.sleep(1)
-
-            # There is a set of functions that move a specific distance
-            # We can move in all directions
-            print('Moving forward 3.0m')
-            mc.forward(3.0)
-            # Wait a bit
-            time.sleep(1)
-
-            print('Moving up 0.2m')
-            mc.up(0.2)
-            # Wait a bit
-            time.sleep(1)
-
-            print('Doing a 270deg circle');
-            mc.circle_right(0.5, velocity=0.5, angle_degrees=270)
-
-            print('Moving down 0.2m')
-            mc.down(0.2)
-            # Wait a bit
-            time.sleep(1)
-
-            print('Rolling left 0.2m at 0.6m/s')
-            mc.left(0.2, velocity=0.6)
-            # Wait a bit
-            time.sleep(1)
-
-            print('Moving forward 0.5m')
-            mc.forward(0.5)
-
-            # We land when the MotionCommander goes out of scope
-            print('Landing!')
-
+    main()

@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing voice.egg-info/PKG-INFO
+writing dependency_links to voice.egg-info/dependency_links.txt
+writing entry points to voice.egg-info/entry_points.txt
+writing requirements to voice.egg-info/requires.txt
+writing top-level names to voice.egg-info/top_level.txt
+reading manifest file 'voice.egg-info/SOURCES.txt'
+writing manifest file 'voice.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/python3.10/site-packages/voice.egg-link (link to .)
+Installing move_node script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/voice
+Installing voice_node script to /home/yehosua/Zayolin-kuekuechti/ros2_ws/install/voice/lib/voice
+
+Installed /home/yehosua/Zayolin-kuekuechti/ros2_ws/build/voice
+running symlink_data

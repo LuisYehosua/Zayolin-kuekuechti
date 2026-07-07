@@ -36,6 +36,9 @@ setup(
     entry_points={
         'console_scripts': [
             'gate_red = flie.gate_red:main',
+            'prueba_avance = flie.prueba_avance:main',
+            'Test1 = flie.Test1:main',
+            'cf_brain_node = flie.cf_brain_node:main',
         ],
     },
 )

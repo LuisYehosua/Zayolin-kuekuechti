@@ -1,0 +1,108 @@
+#!/usr/bin/env python3
+import rclpy
+from rclpy.node import Node
+from std_msgs.msg import Bool
+from geometry_msgs.msg import Twist
+import time
+import threading
+
+class CFBrainNode(Node):
+    def __init__(self):
+        super().__init__('cf_brain_node')
+        self.takeoff_pub = self.create_publisher(Bool, 'hardware/start_takeoff', 10)
+        self.cmd_vel_pub = self.create_publisher(Twist, 'cmd_vel', 10)
+        self.landing_pub = self.create_publisher(Bool, 'hardware/start_landing', 10)
+        self.ready_sub = self.create_subscription(Bool, 'hardware/takeoff_ready', self.ready_cb, 10)
+        
+        self.is_ready = False
+        self.get_logger().info("Starting Brain Node with Watchdog compatibility...")
+
+    def ready_cb(self, msg: Bool):
+        if msg.data:
+            self.is_ready = True
+            self.get_logger().info("Drone ready")
+
+    def publish_velocity_for_duration(self, twist_msg: Twist, duration: float):
+        """
+        Publica continuamente el mensaje Twist a 10 Hz durante el tiempo especificado.
+        Esto mantiene vivo el Watchdog del nodo traductor.
+        """
+        rate = self.create_rate(10) # 10 Hz (cada 0.1s)
+        start_time = self.get_clock().now().nanoseconds / 1e9
+        
+        while rclpy.ok():
+            current_time = self.get_clock().now().nanoseconds / 1e9
+            if (current_time - start_time) >= duration:
+                break
+                
+            self.cmd_vel_pub.publish(twist_msg)
+            rate.sleep()
+
+    def run_sequence(self):
+        # Espera inicial antes de arrancar
+        time.sleep(2.0)
+
+        # 1. Takeoff
+        self.get_logger().info("Sending take off")
+        msg = Bool()
+        msg.data = True
+        self.takeoff_pub.publish(msg)
+        while not self.is_ready and rclpy.ok():
+            time.sleep(0.5)
+        time.sleep(1.0)
+
+        # 2. Forward (Avanzar a 0.2 m/s durante 3.0 segundos)
+        self.get_logger().info("Moving forward at 0.2 m/s...")
+        vel = Twist()
+        vel.linear.x = 0.2
+        self.publish_velocity_for_duration(vel, 3.0)
+
+        # 3. Stop (Frenar y mantener 0.0 durante 1.0 segundo)
+        self.get_logger().info("Stopping...")
+        vel = Twist() # Todo en 0.0
+        self.publish_velocity_for_duration(vel, 1.0)
+        
+        # 4. Up (Subir a 0.2 m/s durante 2.0 segundos)
+        self.get_logger().info("Moving up at 0.2 m/s...")
+        vel = Twist()
+        vel.linear.z = 0.2
+        self.publish_velocity_for_duration(vel, 2.0)
+        
+        # 5. Stop (Frenar y mantener 0.0 durante 1.0 segundo)
+        self.get_logger().info("Stopping...")
+        vel = Twist()
+        self.publish_velocity_for_duration(vel, 1.0)
+        
+        # 6. Turn left (Girar a 1.5 rad/s durante 1.0 segundo)
+        self.get_logger().info("Turning left 90°...")
+        vel = Twist()
+        vel.angular.z = 1.5
+        self.publish_velocity_for_duration(vel, 1.0) 
+        
+        # 7. Stop (Frenar y mantener 0.0 durante 1.0 segundo)
+        self.get_logger().info("Stopping...")
+        vel = Twist()
+        self.publish_velocity_for_duration(vel, 1.0)
+
+        # 8. Land
+        self.get_logger().info("Sending land")
+        land_msg = Bool()
+        land_msg.data = True
+        self.landing_pub.publish(land_msg)
+        
+def main(args=None):
+    rclpy.init(args=args)
+    node = CFBrainNode()
+    
+    # Hilo encargado de procesar las suscripciones en paralelo
+    spin_thread = threading.Thread(target=rclpy.spin, args=(node,), daemon=True)
+    spin_thread.start()
+
+    # Ejecución de la rutina autónoma modificada
+    node.run_sequence()
+
+    # Mantener el script vivo hasta presionar Ctrl+C
+    spin_thread.join()
+
+if __name__ == '__main__':
+    main()
